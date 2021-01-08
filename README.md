@@ -5,3 +5,4 @@ I created a clone of Google Search Page using HTML5, CSS3 and JavaScript for the
 # Inspired by:
 [![Google](https://img.shields.io/badge/-Google-4285F4?style=for-the-badge&logo=Google&logoColor=ffffff)](https://www.google.com/)
 [![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=YouTube&logoColor=ffffff)]()
+[![Google Drive](https://img.shields.io/badge/-Hospedagem-FF0000?style=for-the-badge&logo=GoogleDrive&logoColor=ffffff)]()

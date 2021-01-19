@@ -7,3 +7,4 @@ I created a clone of Google Search Page using HTML5, CSS3 and JavaScript for the
 [![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=YouTube&logoColor=ffffff)](https://www.youtube.com/watch?v=IOziOnp53jg&list=RDCMUCbwXnUipZsLfUckBPsC7Jog&start_radio=1&rv=IOziOnp53jg&t=7)
 [![YouTube](https://img.shields.io/badge/-YouTube-FEC111?style=for-the-badge&logo=YouTube&logoColor=ffffff)]()
 [![Google Drive](https://img.shields.io/badge/-Hospedagem-0F9D58?style=for-the-badge&logo=Google-Drive&logoColor=ffffff)]()
+[![Google](https://img.shields.io/badge/-YouTube-4285F4?style=for-the-badge&logo=YouTube&logoColor=ffffff)](https://www.google.com/)

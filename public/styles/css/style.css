@@ -1,0 +1,117 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Arial', sans-serif;
+}
+
+#profile{
+    border-radius: 50%;
+    width: 34px; height: 34px;
+}
+
+section{
+    position: relative;
+    width: 100%; min-height: 100vh;
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+section header{
+    position: absolute;
+    top: 0;
+    width: 100%;
+    
+    display: flex;
+    justify-content: flex-end;
+    padding: 20px;
+}
+
+section header ul{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+section header ul li{
+    list-style: none;
+    margin-left: 20px;
+    font-size: 13.7px;
+}
+
+section header ul li a{
+    color: #5d5d5d;
+    text-decoration: none;
+}
+
+section header ul li button{
+    background: #4584ef;
+    border: none;
+    outline: none;
+    padding: 8px 14px;
+    color: #fff;
+    font-size: 14px;
+    font-weight: bold;
+    border-radius: 3px;
+    cursor: pointer;
+}
+
+a:hover{
+    box-shadow: 0px 1px 0px #5d5d5d;
+}
+
+i{
+    color: #b3b3b3;
+    font-size: 10px;
+}
+
+i:hover{
+    color: rgb(0, 0, 0);
+    box-shadow: none;
+    cursor: pointer;
+}
+
+.main img {
+    height: 100px;
+}
+
+section .main{
+    width: 580px;
+    margin-top: -200px;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+section .main .searchBox{
+    position: relative;
+    width: 100%;
+    margin-top: 5%;
+}
+
+section .main .searchBox .search{
+    width: 100%;
+    padding: 13px;
+    padding-left: 45px;
+    padding-right: 60px;
+    border-radius: 30px;
+    outline: none;
+    border: 1px solid #d8d8d8;
+    font-size: 16px;
+}
+
+section .main .searchBox .icons{
+    position: absolute;
+    top: 0;
+    width: 100%;
+
+    display: flex;
+    padding: 12px 20px;
+    justify-content: space-between;
+    align-items: center;
+    pointer-events: none;
+}

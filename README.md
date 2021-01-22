@@ -1,4 +1,4 @@
-# 🔎 Google Search page 🔎
+# 🔎🔵🔴 Google Search page 🔎🟡🟢
 I created a clone of Google Search Page using HTML5, CSS3 and JavaScript for the front-end. Besides that, i used the Node.js environment and the Firebase database for back-end.
 <div align="center"><a href="https://github.com/IsaacAlves7/google-search-page-clone"><img src="https://cdn-5be86f13f911c81bb8517500.closte.com/wp-content/uploads/2015/09/OGB-INSIDER-BLOGS-GoogleLogox2-Animated.gif"></a></div>
 

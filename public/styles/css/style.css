@@ -5,6 +5,10 @@
     font-family: 'Arial', sans-serif;
 }
 
+html, body{
+    height: 100%;
+}
+
 #profile{
     border-radius: 50%;
     width: 34px; height: 34px;
@@ -12,11 +16,13 @@
 
 section{
     position: relative;
-    width: 100%; min-height: 100vh;
-    
+    width: 100%; height: 100vh;
+    overflow: hidden;
+
     display: flex;
     justify-content: center;
     align-items: center;
+    flex: 1;
 }
 
 section header{
@@ -79,6 +85,10 @@ section .main{
     flex-direction: column;
     align-items: center;
     justify-content: center;
+}
+
+.main .main-image{
+    height: 92px;
 }
 
 section .main .searchBox{
@@ -212,4 +222,108 @@ section .footer .row.row2 ul:nth-child(2) li a{
     color: #5f6368;
     margin-right: 0px;
     margin-right: 25px;
+}
+
+/*--------- 📱 Media Queries 📱 ----------*/
+
+@media screen and (max-width:384px){ /* (Resolution = 384 x 640) | LG Optimus*/    
+    .main .main-image{
+        height: 62px;
+    }
+
+    section .main{
+        margin-top: -137px;
+    }
+
+    section .main .searchBox .search{
+        width: 367px;
+        margin-left: 10px;
+        margin-right: 10px;
+    }    
+
+    section .main .searchBox .icons div > i{
+        margin-left: 2px;
+    }
+    
+    section .main .searchBox .icons div > img{
+        margin-right: -8px;
+    }
+    
+    section header ul li button{
+        font-size: 12px;
+    }
+
+    section .main .languages li{
+        font-size: 10.3px;
+    }
+    
+    section .footer .row{
+        font-size: 7px;
+        padding: 7px;
+    }
+
+    section .footer .row.row2{
+        padding: 7px;
+    }
+
+    section .footer .row.row2 ul li a{
+        font-size: 7px;
+        margin: 2px;
+    }
+
+    section .footer .row.row2 ul:nth-child(2) li a{
+        font-size: 7px;
+        margin: 2px;
+    }
+}
+
+@media screen and (max-width:360px){ /* (Resolution = 360 x 640) | Galaxy S III - Galaxy Note II - Galaxy Note 3 - Galaxy S5 - Nexus 5 - Moto G4*/    
+    .main .main-image{
+        height: 62px;
+    }
+
+    section .main{
+        margin-top: -137px;
+    }
+
+    section .main .searchBox .search{
+        width: 350px;
+        margin-left: 10px;
+        margin-right: 10px;
+    }    
+
+    section .main .searchBox .icons div > i{
+        margin-left: 2px;
+    }
+    
+    section .main .searchBox .icons div > img{
+        margin-right: -8px;
+    }
+    
+    section header ul li button{
+        font-size: 12px;
+    }
+
+    section .main .languages li{
+        font-size: 10.3px;
+    }
+    
+    section .footer .row{
+        font-size: 7px;
+        padding: 7px;
+    }
+
+    section .footer .row.row2{
+        padding: 7px;
+    }
+
+    section .footer .row.row2 ul li a{
+        font-size: 7px;
+        margin: 2px;
+    }
+
+    section .footer .row.row2 ul:nth-child(2) li a{
+        font-size: 7px;
+        margin: 2px;
+    }
 }

@@ -1,4 +1,6 @@
-*{
+*,
+*::before,
+*::after{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
@@ -7,6 +9,7 @@
 
 html, body{
     height: 100%;
+    flex: 0;
 }
 
 #profile{
@@ -48,7 +51,7 @@ section header ul li{
 }
 
 section header ul li a{
-    color: #5d5d5d;
+    color: #000000de;
     text-decoration: none;
 }
 
@@ -62,6 +65,10 @@ section header ul li button{
     font-weight: bold;
     border-radius: 3px;
     cursor: pointer;
+}
+
+section header ul li button:hover{
+    opacity: 0.4;
 }
 
 header li > a:hover{
@@ -224,106 +231,50 @@ section .footer .row.row2 ul:nth-child(2) li a{
     margin-right: 25px;
 }
 
-/*--------- 📱 Media Queries 📱 ----------*/
 
-@media screen and (max-width:384px){ /* (Resolution = 384 x 640) | LG Optimus*/    
-    .main .main-image{
-        height: 62px;
-    }
 
-    section .main{
-        margin-top: -137px;
-    }
 
-    section .main .searchBox .search{
-        width: 367px;
-        margin-left: 10px;
-        margin-right: 10px;
-    }    
+/* >>>> Media Queries <<<< */
 
-    section .main .searchBox .icons div > i{
-        margin-left: 2px;
-    }
-    
-    section .main .searchBox .icons div > img{
-        margin-right: -8px;
-    }
-    
-    section header ul li button{
-        font-size: 12px;
+/* Ipad */
+@media screen and (max-width: 800px){
+    section header ul li a,button{
+        font-size: 13px;
     }
 
-    section .main .languages li{
-        font-size: 10.3px;
-    }
-    
-    section .footer .row{
-        font-size: 7px;
-        padding: 7px;
-    }
-
-    section .footer .row.row2{
-        padding: 7px;
-    }
-
-    section .footer .row.row2 ul li a{
-        font-size: 7px;
-        margin: 2px;
-    }
-
-    section .footer .row.row2 ul:nth-child(2) li a{
-        font-size: 7px;
-        margin: 2px;
+    .main a img{
+        height: 92px;
     }
 }
 
-@media screen and (max-width:360px){ /* (Resolution = 360 x 640) | Galaxy S III - Galaxy Note II - Galaxy Note 3 - Galaxy S5 - Nexus 5 - Moto G4*/    
-    .main .main-image{
-        height: 62px;
+
+
+@media screen and (max-width: 590px){
+    section header ul li a,button{
+        font-size: 13px;
     }
 
-    section .main{
-        margin-top: -137px;
+    .main a img{
+        width: 272px; height: 92px;
+    }
+}
+
+@media screen and (max-width: 360px){
+    section header ul li a,i.material-icons{
+        font-size: 7px;
+        margin-left: -2px;
     }
 
-    section .main .searchBox .search{
-        width: 350px;
-        margin-left: 10px;
-        margin-right: 10px;
-    }    
-
-    section .main .searchBox .icons div > i{
-        margin-left: 2px;
-    }
-    
-    section .main .searchBox .icons div > img{
-        margin-right: -8px;
-    }
-    
     section header ul li button{
-        font-size: 12px;
-    }
-
-    section .main .languages li{
-        font-size: 10.3px;
+        font-size: 4px;
+        padding-top: 4px;
+        padding-bottom: 4px;
+        padding-left: 7px;
+        padding-right: 7px;
     }
     
-    section .footer .row{
-        font-size: 7px;
-        padding: 7px;
+    .main a img{
+        width: 92px; height: 34px;
     }
-
-    section .footer .row.row2{
-        padding: 7px;
-    }
-
-    section .footer .row.row2 ul li a{
-        font-size: 7px;
-        margin: 2px;
-    }
-
-    section .footer .row.row2 ul:nth-child(2) li a{
-        font-size: 7px;
-        margin: 2px;
-    }
+    
 }

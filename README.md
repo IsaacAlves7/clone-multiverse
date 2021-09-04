@@ -1,6 +1,7 @@
 # 👽 Clone Projects 🛸
-I created a clone of Google Search Page using HTML5, CSS3 and Vanilla JavaScript for the front-end. Besides that, i used the Node.js environment and the Firebase database for back-end.
-<div align="center"><a href="https://github.com/IsaacAlves7/google-clone"><img src="https://www.google.com/logos/doodles/2020/stay-and-play-at-home-with-popular-past-google-doodles-coding-2017-6753651837108765-2xa.gif"></a></div>
+<blockquote>I created a repository of clone projects!</blockquote>
+
+<div align="center"><a href="https://github.com/IsaacAlves7/google-clone"><img src="https://media.lrng.org/78/87/78a0ef001bc2a7ee09227d2611cc645952c6-945x300.jpg"></a></div>
 
 # Inspired by:
 [![Google](https://img.shields.io/badge/-Google‍‍Search‍‍Page-4285F4?style=for-the-badge&logo=Google&logoColor=ffffff)](https://www.google.com/)

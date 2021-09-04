@@ -1,7 +1,7 @@
 # :octocat: Clone Wars (powered by IsaacAlves7) 👽👽🛸
 <blockquote>I created a repository of clone projects!</blockquote>
 
-<div align="center"><a href="https://github.com/IsaacAlves7/google-clone"><img src="https://user-images.githubusercontent.com/61624336/132105101-7ae5abde-704a-42ea-8a2c-27e45e0aed37.png"></a></div>
+<div align="center"><a href="https://github.com/IsaacAlves7/google-clone"><img src="https://user-images.githubusercontent.com/61624336/132105244-eb380379-29ae-47d6-b7a4-3173eae3bee5.png"></a></div>
 
 <table>
   <tr>

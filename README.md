@@ -1,3 +1,9 @@
-# 👽 Clone Project:  <img src="https://cdn.worldvectorlogo.com/logos/instagram-2.svg" height="30">
-It's a clone of the Instagram website using HTML5 and CSS3.
-![instagram-open-source](https://user-images.githubusercontent.com/61624336/109406899-7e20dd80-795b-11eb-8b04-5e298cc145c1.png)
+# 👽 Clone Project: <img src="https://cdn.worldvectorlogo.com/logos/netflix-3.svg" height="30">
+It's a repository of NETFLIX Website Clone using HTML5, CSS3, JavaScript, jQuery, React.js and React Router.
+
+# Inspired by:
+[![NetFLIX](https://img.shields.io/badge/-Netflix-000000?style=for-the-badge&logo=NetFlix&logoColor=E50914)](https://www.netflix.com/br/)
+[![YouTube](https://img.shields.io/badge/-YouTube-000?style=for-the-badge&logo=YouTube&logoColor=E50914)](https://www.youtube.com/watch?v=44OcU1PJWCA&list=LL&index=25&t=95s)
+[![YouTube](https://img.shields.io/badge/-YouTube-000?style=for-the-badge&logo=YouTube&logoColor=E50914)](https://youtu.be/P7t13SGytRk)
+[![YouTube](https://img.shields.io/badge/-YouTube-000?style=for-the-badge&logo=YouTube&logoColor=E50914)](https://youtu.be/x_EEwGe-a9o)
+[![YouTube](https://img.shields.io/badge/-YouTube-000?style=for-the-badge&logo=YouTube&logoColor=E50914)](https://youtu.be/XtMThy8QKqU)

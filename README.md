@@ -1,7 +1,7 @@
 # 👽 Clone Projects 🛸
 <blockquote>I created a repository of clone projects!</blockquote>
 
-<div align="center"><a href="https://github.com/IsaacAlves7/google-clone"><img src="https://media.lrng.org/78/87/78a0ef001bc2a7ee09227d2611cc645952c6-945x300.jpg"></a></div>
+<div align="center"><a href="https://github.com/IsaacAlves7/google-clone"><img src="https://user-images.githubusercontent.com/61624336/132105101-7ae5abde-704a-42ea-8a2c-27e45e0aed37.png"></a></div>
 
 # Inspired by:
 [![Google](https://img.shields.io/badge/-Google‍‍Search‍‍Page-4285F4?style=for-the-badge&logo=Google&logoColor=ffffff)](https://www.google.com/)

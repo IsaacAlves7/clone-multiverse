@@ -175,6 +175,15 @@
     <td></td>
     <td></td>
   </tr>
+  <tr>
+    <td>Star Wars Effect</td>
+    <td>Typing Title/ Credits Effect</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td><a href="https://www.spotify.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/2/22/StormtrooperHelmetIcon.svg" height="70"></td>
+  </tr>
 </table>
 
 ## Inspired by:

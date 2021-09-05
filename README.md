@@ -5,7 +5,16 @@
 
 <table>
   <tr>
-    <td></td>
+    <td><b>Project</b></td>
+    <td><b>Type</b></td>
+    <td><b>Deploy</b></td>
+    <td><b>Version</b></td>
+    <td><b>Production</b></td>
+    <td><b>Tecnologies</b></td>
+    <td><b>Original</b></td>
+  </tr>
+    <tr>
+    <td>Instagram</td>
     <td></td>
     <td></td>
     <td></td>
@@ -14,16 +23,7 @@
     <td></td>
   </tr>
     <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-    <tr>
-    <td></td>
+    <td>Twitter</td>
     <td></td>
     <td></td>
     <td></td>
@@ -32,16 +32,7 @@
     <td></td>
   </tr>
     <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-    <tr>
-    <td></td>
+    <td>Spotify</td>
     <td></td>
     <td></td>
     <td></td>
@@ -50,16 +41,7 @@
     <td></td>
   </tr>
     <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-    <tr>
-    <td></td>
+    <td>Facebook</td>
     <td></td>
     <td></td>
     <td></td>
@@ -68,7 +50,7 @@
     <td></td>
   </tr>
     <tr>
-    <td></td>
+    <td>WhatsApp</td>
     <td></td>
     <td></td>
     <td></td>
@@ -77,8 +59,116 @@
     <td></td>
   </tr>
     <tr>
+    <td>TikTok</td>
     <td></td>
     <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+    <tr>
+    <td>Netflix</td>
+    <td>Streaming App</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+    <tr>
+    <td>Amazon</td>
+    <td>E-Commerce</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+    <tr>
+    <td>Google Search Page</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Cobra Kai</td>
+    <td>DoJo Website</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+   <tr>
+    <td>Airbnb</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Snapchat</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Starbucks</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Disney+</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+   <tr>
+    <td>Amazon Prime</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Apple</td>
+    <td>E-Commerce</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Habib's</td>
+    <td>Restaurant Website</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Subway</td>
+    <td>Restaurant Website</td>
     <td></td>
     <td></td>
     <td></td>

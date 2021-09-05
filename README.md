@@ -155,7 +155,7 @@
     <td></td>
     <td></td>
     <td></td>
-    <td></td>
+    <td><a href="https://www.apple.com/"><img src="https://cdn.worldvectorlogo.com/logos/apple.svg" height="77"></a></td>
   </tr>
   <tr>
     <td>Habib's</td>

@@ -1,17 +1,11 @@
-# 👽 Clone Project: <img src="https://cdn.worldvectorlogo.com/logos/apple-11.svg" height="30">
-<blockquote><b><img src="https://emojis.slackmojis.com/emojis/images/1450319442/24/appleinc.png?1450319442" height="17"> UPDATED!</b> The system has been updated!</blockquote>
+# 👽 Clone Project: <img src="https://seeklogo.com/images/C/cobra-kai-logo-01BAA48FFD-seeklogo.com.png" height="40">
+It's a repository of Cobra Kai Portifolio website clone using HTML5, CSS3 and JS. 
 
-I created a clone of the Apple Website using HTML5, Sass, JavaScript, FontAwesome, MaterializeCSS, PHP and PostgreSQL.
+![Cobra Kai UI](https://user-images.githubusercontent.com/61624336/105786305-8d2aff00-5f5b-11eb-876f-80ead5b514f7.jpg)
 
-<a href="https://github.com/IsaacAlves7/apple-clone"> ![](https://i.ytimg.com/vi/DEpF1nNz1l0/maxresdefault.jpg) </a>
+# Inspired by
+[![NetFLIX](https://img.shields.io/badge/-Netflix‍‍‍Series-000000?style=for-the-badge&logo=NetFlix&logoColor=E50914)](https://www.netflix.com/br/title/81002370)
+[![YouTube](https://img.shields.io/badge/-YouTube-000?style=for-the-badge&logo=YouTube&logoColor=E50914)](https://www.youtube.com/watch?v=9z1nTwP2n0w)
+[![YouTube](https://img.shields.io/badge/-YouTube-000?style=for-the-badge&logo=YouTube&logoColor=E50914)](https://www.youtube.com/watch?v=9z1nTwP2n0w)
 
-## Inspired by:
-[![Apple](https://img.shields.io/badge/-Apple-000?style=for-the-badge&logo=Apple&logoColor=white)](https://www.apple.com)
-[![YouTube](https://img.shields.io/badge/-YouTube-000?style=for-the-badge&logo=YouTube&logoColor=ffffff)](https://youtu.be/DEpF1nNz1l0)
-[![YouTube](https://img.shields.io/badge/-YouTube-000?style=for-the-badge&logo=YouTube&logoColor=ffffff)](https://youtu.be/wLUJ9VNzZXo)
-[![Heroku](https://img.shields.io/badge/-Hospedagem-000?style=for-the-badge&logo=Heroku&logoColor=ffffff)](https://youtu.be/wLUJ9VNzZXo)
-[![Repository](https://img.shields.io/badge/-Based‍‍in-000?style=for-the-badge&logo=GitHub&logoColor=ffffff)](https://youtu.be/wLUJ9VNzZXo)
-[![Repository](https://img.shields.io/badge/-Based‍‍in-000?style=for-the-badge&logo=GitHub&logoColor=ffffff)](https://youtu.be/wLUJ9VNzZXo)
-[![Repository](https://img.shields.io/badge/-Based‍‍in-000?style=for-the-badge&logo=GitHub&logoColor=ffffff)](https://youtu.be/wLUJ9VNzZXo)
-
-It's a responsive Apple website clone
+The character Miguel Diaz, played by Xolo Maridueña, developed a Portifolio website, for his sensei Johnny Lawrence in Cobra Kai series. This is a website for new students on dojo, sign up now! #StrikeFirst #NoMercy #StrikeHard #CobraKaiNeverDies🐍

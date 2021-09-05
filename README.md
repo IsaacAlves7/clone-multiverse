@@ -20,7 +20,7 @@
     <td></td>
     <td></td>
     <td></td>
-    <td></td>
+    <td>https://www.instagram.com/</td>
   </tr>
     <tr>
     <td>Twitter</td>

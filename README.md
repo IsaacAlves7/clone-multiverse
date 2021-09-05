@@ -97,7 +97,7 @@
   <tr>
     <td>Cobra Kai</td>
     <td>DoJo Website</td>
-    <td></td>
+    <td>https://www.cobrakai.vercelapp</td>
     <td></td>
     <td></td>
     <td></td>

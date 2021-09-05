@@ -1,9 +1,17 @@
-# 👽 Clone Project: <img src="https://cdn.worldvectorlogo.com/logos/netflix-3.svg" height="30">
-It's a repository of NETFLIX Website Clone using HTML5, CSS3, JavaScript, jQuery, React.js and React Router.
+# 👽 Clone Project: <img src="https://cdn.worldvectorlogo.com/logos/apple-11.svg" height="30">
+<blockquote><b><img src="https://emojis.slackmojis.com/emojis/images/1450319442/24/appleinc.png?1450319442" height="17"> UPDATED!</b> The system has been updated!</blockquote>
 
-# Inspired by:
-[![NetFLIX](https://img.shields.io/badge/-Netflix-000000?style=for-the-badge&logo=NetFlix&logoColor=E50914)](https://www.netflix.com/br/)
-[![YouTube](https://img.shields.io/badge/-YouTube-000?style=for-the-badge&logo=YouTube&logoColor=E50914)](https://www.youtube.com/watch?v=44OcU1PJWCA&list=LL&index=25&t=95s)
-[![YouTube](https://img.shields.io/badge/-YouTube-000?style=for-the-badge&logo=YouTube&logoColor=E50914)](https://youtu.be/P7t13SGytRk)
-[![YouTube](https://img.shields.io/badge/-YouTube-000?style=for-the-badge&logo=YouTube&logoColor=E50914)](https://youtu.be/x_EEwGe-a9o)
-[![YouTube](https://img.shields.io/badge/-YouTube-000?style=for-the-badge&logo=YouTube&logoColor=E50914)](https://youtu.be/XtMThy8QKqU)
+I created a clone of the Apple Website using HTML5, Sass, JavaScript, FontAwesome, MaterializeCSS, PHP and PostgreSQL.
+
+<a href="https://github.com/IsaacAlves7/apple-clone"> ![](https://i.ytimg.com/vi/DEpF1nNz1l0/maxresdefault.jpg) </a>
+
+## Inspired by:
+[![Apple](https://img.shields.io/badge/-Apple-000?style=for-the-badge&logo=Apple&logoColor=white)](https://www.apple.com)
+[![YouTube](https://img.shields.io/badge/-YouTube-000?style=for-the-badge&logo=YouTube&logoColor=ffffff)](https://youtu.be/DEpF1nNz1l0)
+[![YouTube](https://img.shields.io/badge/-YouTube-000?style=for-the-badge&logo=YouTube&logoColor=ffffff)](https://youtu.be/wLUJ9VNzZXo)
+[![Heroku](https://img.shields.io/badge/-Hospedagem-000?style=for-the-badge&logo=Heroku&logoColor=ffffff)](https://youtu.be/wLUJ9VNzZXo)
+[![Repository](https://img.shields.io/badge/-Based‍‍in-000?style=for-the-badge&logo=GitHub&logoColor=ffffff)](https://youtu.be/wLUJ9VNzZXo)
+[![Repository](https://img.shields.io/badge/-Based‍‍in-000?style=for-the-badge&logo=GitHub&logoColor=ffffff)](https://youtu.be/wLUJ9VNzZXo)
+[![Repository](https://img.shields.io/badge/-Based‍‍in-000?style=for-the-badge&logo=GitHub&logoColor=ffffff)](https://youtu.be/wLUJ9VNzZXo)
+
+It's a responsive Apple website clone

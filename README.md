@@ -51,12 +51,12 @@
   </tr>
     <tr>
     <td>WhatsApp</td>
+    <td>Social Media</td>
     <td></td>
     <td></td>
     <td></td>
     <td></td>
-    <td></td>
-    <td></td>
+    <td><a href="https://www.facebook.com/"><img src="https://cdn.worldvectorlogo.com/logos/whatsapp-icon.svg" height="77"></a></td>
   </tr>
     <tr>
     <td>TikTok</td>
@@ -65,7 +65,7 @@
     <td></td>
     <td></td>
     <td></td>
-    <td></td>
+    <td><a href="https://www.spotify.com/"><img src="https://cdn.worldvectorlogo.com/logos/tiktok-logo.svg" height="77"></td>
   </tr>
     <tr>
     <td>Netflix</td>
@@ -101,7 +101,7 @@
     <td></td>
     <td></td>
     <td></td>
-    <td></td>
+    <td><a href="https://www.facebook.com/"><img src="https://cdn.worldvectorlogo.com/logos/cobra-kia-logo.svg" height="77"></a></td>
   </tr>
    <tr>
     <td>Airbnb</td>
@@ -137,7 +137,7 @@
     <td></td>
     <td></td>
     <td></td>
-    <td></td>
+    <td><a href="https://www.spotify.com/"><img src="https://symbols.getvecta.com/stencil_78/76_disney-icon.c33d9367c0.svg" height="70"></td>
   </tr>
    <tr>
     <td>Amazon Prime</td>

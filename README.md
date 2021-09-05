@@ -164,7 +164,7 @@
     <td></td>
     <td></td>
     <td></td>
-    <td></td>
+    <td><a href="https://www.instagram.com/"><img src="https://iconape.com/wp-content/files/nh/244290/svg/244290.svg" height="77"></a></td>
   </tr>
   <tr>
     <td>Subway</td>

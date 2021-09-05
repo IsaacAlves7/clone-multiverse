@@ -15,39 +15,39 @@
   </tr>
     <tr>
     <td>Instagram</td>
+    <td>Photo Social Media</td>
     <td></td>
     <td></td>
     <td></td>
     <td></td>
-    <td></td>
-    <td>https://www.instagram.com/</td>
+    <td><a href="https://www.instagram.com/"><img src="https://cdn.worldvectorlogo.com/logos/instagram-2-1.svg" height="77"></a></td>
   </tr>
     <tr>
     <td>Twitter</td>
+    <td>Social Media</td>
     <td></td>
     <td></td>
     <td></td>
     <td></td>
-    <td></td>
-    <td></td>
+    <td><a href="https://www.twitter.com/"><img src="https://cdn.worldvectorlogo.com/logos/twitter-3.svg" height="77"></a></td>
   </tr>
     <tr>
     <td>Spotify</td>
+    <td>Audio/ Music Streaming</td>
     <td></td>
     <td></td>
     <td></td>
     <td></td>
-    <td></td>
-    <td></td>
+    <td><a href="https://www.spotify.com/"><img src="https://cdn.worldvectorlogo.com/logos/spotify-2.svg" height="77"></a></td>
   </tr>
     <tr>
     <td>Facebook</td>
+    <td>Social Media</td>
     <td></td>
     <td></td>
     <td></td>
     <td></td>
-    <td></td>
-    <td></td>
+    <td><a href="https://www.facebook.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" height="77"></a></td>
   </tr>
     <tr>
     <td>WhatsApp</td>
@@ -69,7 +69,7 @@
   </tr>
     <tr>
     <td>Netflix</td>
-    <td>Streaming App</td>
+    <td>Movie/ Series Streaming</td>
     <td></td>
     <td></td>
     <td></td>

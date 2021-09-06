@@ -3,6 +3,8 @@
 
 <div align="center"><a href="https://github.com/IsaacAlves7/google-clone"><img src="https://user-images.githubusercontent.com/61624336/132105244-eb380379-29ae-47d6-b7a4-3173eae3bee5.png"></a></div>
 
+# 🛸 Projects Table 🛸
+
 <table>
   <tr>
     <td><b>Project</b></td>

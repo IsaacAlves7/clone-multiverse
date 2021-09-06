@@ -3,6 +3,8 @@
 
 <div align="center"><a href="https://github.com/IsaacAlves7/google-clone"><img src="https://user-images.githubusercontent.com/61624336/132105244-eb380379-29ae-47d6-b7a4-3173eae3bee5.png"></a></div>
 
+# 👽 How to start the Clone Wars? 👽
+
 # 🛸 Projects Table 🛸
 
 <table>
@@ -178,7 +180,7 @@
     <td></td>
   </tr>
   <tr>
-    <td>Star Wars Effect</td>
+    <td>Star Wars</td>
     <td>Typing Title/ Credits Effect</td>
     <td></td>
     <td></td>
@@ -187,6 +189,12 @@
     <td><a href="https://www.spotify.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/2/22/StormtrooperHelmetIcon.svg" height="70"></td>
   </tr>
 </table>
+
+# 🚀 🚀
+
+# 🌕 🌕
+
+# 🪐 🪐
 
 # 🌌 Inspired by 🌌
 [![Google](https://img.shields.io/badge/-Google‍‍Search‍‍Page-000?style=for-the-badge&logo=Google&logoColor=ffffff)](https://www.google.com/)

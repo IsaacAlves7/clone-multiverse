@@ -25,7 +25,7 @@
     <td></td>
     <td></td>
     <td></td>
-    <td><a href="https://www.instagram.com/"><img src="https://cdn.worldvectorlogo.com/logos/instagram-2-1.svg" height="77"></a></td>
+    <td><div align="center"><a href="https://www.instagram.com/"><img src="https://cdn.worldvectorlogo.com/logos/instagram-2-1.svg" height="77"></a></div></td>
   </tr>
     <tr>
     <td>Twitter</td>
@@ -106,7 +106,7 @@
     <td></td>
     <td></td>
     <td></td>
-    <td><a href="https://www.facebook.com/"><img src="https://cdn.worldvectorlogo.com/logos/cobra-kia-logo.svg" height="77"></a></td>
+    <td><a href="https://www.facebook.com/"><img src="https://cdn.worldvectorlogo.com/logos/cobra-kia-logo.svg" height="207"></a></td>
   </tr>
    <tr>
     <td>Airbnb</td>
@@ -142,7 +142,7 @@
     <td></td>
     <td></td>
     <td></td>
-    <td><a href="https://www.spotify.com/"><img src="https://symbols.getvecta.com/stencil_78/76_disney-icon.c33d9367c0.svg" height="70"></td>
+    <td><div align="center"><a href="https://www.spotify.com/"><img src="https://symbols.getvecta.com/stencil_78/76_disney-icon.c33d9367c0.svg" height="70"></div></td>
   </tr>
    <tr>
     <td>Amazon Prime</td>
@@ -160,7 +160,7 @@
     <td></td>
     <td></td>
     <td></td>
-    <td><a href="https://www.apple.com/"><img src="https://cdn.worldvectorlogo.com/logos/apple.svg" height="77"></a></td>
+    <td><div align="center"><a href="https://www.apple.com/"><img src="https://cdn.worldvectorlogo.com/logos/apple.svg" height="77"></a></div></td>
   </tr>
   <tr>
     <td>Habib's</td>
@@ -187,7 +187,16 @@
     <td></td>
     <td></td>
     <td></td>
-    <td><a href="https://www.spotify.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/2/22/StormtrooperHelmetIcon.svg" height="70"></td>
+    <td><div align="center"><a href="https://www.spotify.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/2/22/StormtrooperHelmetIcon.svg" height="70"></div></td>
+  </tr>
+    <tr>
+    <td>Minecraft</td>
+    <td>PC Game</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>Java</td>
+    <td><div align="center"><a href="https://www.spotify.com/"><img src="https://cdn.worldvectorlogo.com/logos/minecraft-1.svg" height="70"></div></td>
   </tr>
 </table>
 

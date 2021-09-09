@@ -1,9 +1,10 @@
-# :octocat: Clone Wars (powered by IsaacAlves7) 👽🛸🚀🌕🪐🌌
+# :octocat: Clone Wars (powered by IsaacAlves7) 👽🛸
 <blockquote>I created a repository of clone projects!</blockquote>
 
 <div align="center"><a href="https://github.com/IsaacAlves7/google-clone"><img src="https://user-images.githubusercontent.com/61624336/132105244-eb380379-29ae-47d6-b7a4-3173eae3bee5.png"></a></div>
 
 # 👽 How to start the Clone Wars? 👽
+<div align="center"><a href="https://github.com/IsaacAlves7/google-clone"><img src="https://i.pinimg.com/736x/16/64/c5/1664c50e43535640ec7cc40d49b0b017--storm-troopers-web-development.jpg" height="307"></a></div><br \>
 
 # 🛸 Projects Table 🛸
 
@@ -191,10 +192,13 @@
 </table>
 
 # 🚀 🚀
+<div align="center"><a href="https://github.com/IsaacAlves7/google-clone"><img src="https://user-images.githubusercontent.com/61624336/132675879-ad374d3e-4908-4f19-85e7-86dd9d0fc3ac.png" height="277"></a></div><br \>
 
 # 🌕 🌕
+<div align="center"><a href="https://github.com/IsaacAlves7/google-clone"><img src="https://user-images.githubusercontent.com/61624336/132675774-73fa91b2-c5a4-43cb-b359-a2d3af10f0d2.png" height="307"></a></div><br \>
 
 # 🪐 🪐
+<div align="center"><a href="https://github.com/IsaacAlves7/google-clone"><img src="https://user-images.githubusercontent.com/61624336/132676080-ec6c1a78-b9fb-451a-92ba-096470e8644e.png" height="257"></a></div><br \>
 
 # 🌌 Inspired by 🌌
 [![Google](https://img.shields.io/badge/-Google‍‍Search‍‍Page-000?style=for-the-badge&logo=Google&logoColor=ffffff)](https://www.google.com/)

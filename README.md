@@ -106,7 +106,7 @@
     <td></td>
     <td></td>
     <td></td>
-    <td><a href="https://www.facebook.com/"><img src="https://cdn.worldvectorlogo.com/logos/cobra-kia-logo.svg" height="207"></a></td>
+    <td><div align="center"><a href="https://www.facebook.com/"><img src="https://static.wikia.nocookie.net/thekaratekid/images/9/9e/Serpentin.png/revision/latest/top-crop/width/360/height/450?cb=20210617150344&path-prefix=es" height="77"></a></div></td>
   </tr>
    <tr>
     <td>Airbnb</td>
@@ -124,7 +124,7 @@
     <td></td>
     <td></td>
     <td></td>
-    <td></td>
+    <td><div align="center"><a href="https://www.netflix.com/"><img src="https://cdn.worldvectorlogo.com/logos/snapchat-logo-3.svg" height="77"></td>
   </tr>
   <tr>
     <td>Starbucks</td>
@@ -133,7 +133,7 @@
     <td></td>
     <td></td>
     <td></td>
-    <td></td>
+    <td><div align="center"><a href="https://www.netflix.com/"><img src="https://cdn.worldvectorlogo.com/logos/starbucks.svg" height="77"></td>
   </tr>
   <tr>
     <td>Disney+</td>

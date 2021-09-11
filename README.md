@@ -61,7 +61,7 @@
     <td></td>
     <td></td>
     <td></td>
-    <td><a href="https://www.facebook.com/"><img src="https://cdn.worldvectorlogo.com/logos/whatsapp-icon.svg" height="77"></a></td>
+    <td><div align="center"><a href="https://www.facebook.com/"><img src="https://cdn.worldvectorlogo.com/logos/whatsapp-icon.svg" height="77"></a></div></td>
   </tr>
     <tr>
     <td>TikTok</td>
@@ -70,7 +70,7 @@
     <td></td>
     <td></td>
     <td></td>
-    <td><a href="https://www.spotify.com/"><img src="https://cdn.worldvectorlogo.com/logos/tiktok-logo.svg" height="77"></td>
+    <td><div align="center"><a href="https://www.spotify.com/"><img src="https://cdn.worldvectorlogo.com/logos/tiktok-logo.svg" height="77"></div></td>
   </tr>
     <tr>
     <td>Netflix</td>
@@ -79,7 +79,7 @@
     <td></td>
     <td></td>
     <td></td>
-    <td></td>
+    <td><div align="center"><a href="https://www.netflix.com/"><img src="https://www.vectorlogo.zone/logos/netflix/netflix-icon.svg" height="77"></div></td>
   </tr>
     <tr>
     <td>Amazon</td>

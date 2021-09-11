@@ -34,7 +34,7 @@
     <td></td>
     <td></td>
     <td></td>
-    <td><a href="https://www.twitter.com/"><img src="https://cdn.worldvectorlogo.com/logos/twitter-3.svg" height="77"></a></td>
+    <td><div align="center"><a href="https://www.twitter.com/"><img src="https://cdn.worldvectorlogo.com/logos/twitter-3.svg" height="77"></a></div></td>
   </tr>
     <tr>
     <td>Spotify</td>
@@ -43,7 +43,7 @@
     <td></td>
     <td></td>
     <td></td>
-    <td><a href="https://www.spotify.com/"><img src="https://cdn.worldvectorlogo.com/logos/spotify-2.svg" height="77"></a></td>
+    <td><div align="center"><a href="https://www.spotify.com/"><img src="https://cdn.worldvectorlogo.com/logos/spotify-2.svg" height="77"></a></div></td>
   </tr>
     <tr>
     <td>Facebook</td>
@@ -52,7 +52,7 @@
     <td></td>
     <td></td>
     <td></td>
-    <td><a href="https://www.facebook.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" height="77"></a></td>
+    <td><div align="center"><a href="https://www.facebook.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" height="77"></a></div></td>
   </tr>
     <tr>
     <td>WhatsApp</td>
@@ -181,6 +181,15 @@
     <td></td>
   </tr>
   <tr>
+    <td>GitHub</td>
+    <td>Remote Repository</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td><div align="center"><a href="https://www.instagram.com/"><img src="" height="77"></a></div></td>
+  </tr>
+  <tr>
     <td>Star Wars</td>
     <td>Typing Title/ Credits Effect</td>
     <td></td>
@@ -205,6 +214,8 @@
 
 # 🌕 🌕
 <div align="center"><a href="https://github.com/IsaacAlves7/google-clone"><img src="https://user-images.githubusercontent.com/61624336/132675774-73fa91b2-c5a4-43cb-b359-a2d3af10f0d2.png" height="307"></a></div><br \>
+
+<div align="center"><a href="https://github.com/IsaacAlves7/google-clone"><img src="https://user-images.githubusercontent.com/61624336/132949781-d0d59432-3dcb-44c3-9cef-356d005b7240.png" height="307"></a></div><br \>
 
 # 🪐 🪐
 <div align="center"><a href="https://github.com/IsaacAlves7/google-clone"><img src="https://user-images.githubusercontent.com/61624336/132676080-ec6c1a78-b9fb-451a-92ba-096470e8644e.png" height="257"></a></div><br \>

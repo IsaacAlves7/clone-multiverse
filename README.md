@@ -145,13 +145,13 @@
     <td><div align="center"><a href="https://www.spotify.com/"><img src="https://symbols.getvecta.com/stencil_78/76_disney-icon.c33d9367c0.svg" height="70"></div></td>
   </tr>
   <tr>
-    <td>Michelin</td>
+    <td>Domino's</td>
     <td></td>
     <td></td>
     <td></td>
     <td></td>
     <td></td>
-    <td></td>
+    <td><div align="center"><a href="https://www.spotify.com/"><img src="https://cdn.worldvectorlogo.com/logos/domino-s-pizza-4.svg" height="70"></div></td>
   </tr>
   <tr>
     <td>Apple</td>

@@ -187,7 +187,7 @@
     <td></td>
     <td></td>
     <td></td>
-    <td><div align="center"><a href="https://www.instagram.com/"><img src="" height="77"></a></div></td>
+    <td><div align="center"><a href="https://www.instagram.com/"><img src="https://cdn.worldvectorlogo.com/logos/github-icon-1.svg" height="77"></a></div></td>
   </tr>
   <tr>
     <td>Star Wars</td>

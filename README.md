@@ -144,8 +144,8 @@
     <td></td>
     <td><div align="center"><a href="https://www.spotify.com/"><img src="https://symbols.getvecta.com/stencil_78/76_disney-icon.c33d9367c0.svg" height="70"></div></td>
   </tr>
-   <tr>
-    <td>Amazon Prime</td>
+  <tr>
+    <td>Michelin</td>
     <td></td>
     <td></td>
     <td></td>

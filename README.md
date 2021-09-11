@@ -88,7 +88,7 @@
     <td></td>
     <td></td>
     <td></td>
-    <td></td>
+    <td><div align="center"><a href="https://www.netflix.com/"><img src="https://cdn.worldvectorlogo.com/logos/amazon-icon-1.svg" height="77"></div></td>
   </tr>
     <tr>
     <td>Google Search Page</td>
@@ -97,7 +97,7 @@
     <td></td>
     <td></td>
     <td></td>
-    <td></td>
+    <td><div align="center"><a href="https://www.netflix.com/"><img src="https://www.vectorlogo.zone/logos/google/google-icon.svg" height="77"></div></td>
   </tr>
   <tr>
     <td>Cobra Kai</td>
@@ -115,7 +115,7 @@
     <td></td>
     <td></td>
     <td></td>
-    <td></td>
+    <td><div align="center"><a href="https://www.netflix.com/"><img src="https://cdn.worldvectorlogo.com/logos/airbnb-1.svg" height="77"></div></td>
   </tr>
   <tr>
     <td>Snapchat</td>
@@ -169,7 +169,7 @@
     <td></td>
     <td></td>
     <td></td>
-    <td><a href="https://www.instagram.com/"><img src="https://iconape.com/wp-content/files/nh/244290/svg/244290.svg" height="77"></a></td>
+    <td><div align="center"><a href="https://www.instagram.com/"><img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://habibs.com.br&client=VFE&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2" height="77"></a></div></td>
   </tr>
   <tr>
     <td>Subway</td>
@@ -178,7 +178,7 @@
     <td></td>
     <td></td>
     <td></td>
-    <td></td>
+    <td><div align="center"><a href="https://www.instagram.com/"><img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://subway.com&client=VFE&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2" height="77"></a></div></td>
   </tr>
   <tr>
     <td>GitHub</td>

@@ -588,6 +588,15 @@ npm install clone-multiverse
     <td>Java</td>
     <td><div align="center"><a href="https://www.spotify.com/"><img src="https://pbs.twimg.com/profile_images/1347252394049077255/xS22RazI.jpg" height="70"></div></td>
   </tr>
+   <tr>
+    <td>Outback Steakhouse</td>
+    <td>Restaurant Website</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>Java</td>
+    <td><div align="center"><a href="https://www.spotify.com/"><img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://outback.todocartoes.com.br&client=VFE&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2" height="70"></div></td>
+  </tr>
 </table>
 
 # 🚀 🚀

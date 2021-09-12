@@ -8,7 +8,8 @@
 
 Este multiverso é composto de projetos que criei ao longo da carreira, cujo você pode testa-los, recriá-los, brincar com eles, e estudar também!
 
-### Instalation
+## <img src="https://i.pinimg.com/originals/90/a2/16/90a216afeaa879b0748841770bd64e1e.png" height="27"> Installation
+
 ```npm
 npm install clone-multiverse
 ```
@@ -511,6 +512,15 @@ npm install clone-multiverse
     <td></td>
     <td>Java</td>
     <td><div align="center"><a href="https://www.spotify.com/"><img src="https://i.pinimg.com/originals/00/22/51/002251ab93aa8a09b5090fc4ad951f8c.png" height="70"></div></td>
+  </tr>
+    <tr>
+    <td>Pac-Man</td>
+    <td>PC Game</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>Java</td>
+    <td><div align="center"><a href="https://www.spotify.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Pacman.svg" height="70"></div></td>
   </tr>
 </table>
 

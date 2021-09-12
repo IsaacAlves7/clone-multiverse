@@ -63,6 +63,15 @@
     <td></td>
     <td><div align="center"><a href="https://www.facebook.com/"><img src="https://icons.iconarchive.com/icons/uiconstock/socialmedia/512/Orkut-icon.png" height="77"></a></div></td>
   </tr>
+     <tr>
+    <td>LinkedIn</td>
+    <td>Social Media</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td><div align="center"><a href="https://www.facebook.com/"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" height="77"></a></div></td>
+  </tr>
     <tr>
     <td>WhatsApp</td>
     <td>Social Media</td>
@@ -188,6 +197,15 @@
     <td></td>
     <td></td>
     <td><div align="center"><a href="https://www.spotify.com/"><img src="https://symbols.getvecta.com/stencil_78/76_disney-icon.c33d9367c0.svg" height="70"></div></td>
+  </tr>
+  <tr>
+    <td>Wendy's</td>
+    <td>Restaurant Website</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td><div align="center"><a href="https://www.spotify.com/"><img src="https://logodownload.org/wp-content/uploads/2020/05/wendys-logo-3-1.png" height="70"></div></td>
   </tr>
   <tr>
     <td>Domino's</td>

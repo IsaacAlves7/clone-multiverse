@@ -543,6 +543,15 @@ npm install clone-multiverse
     <td>Java</td>
     <td><div align="center"><a href="https://www.spotify.com/"><img src="https://pngimage.net/wp-content/uploads/2018/06/flappy-bird-png-2.png" height="70"></div></td>
   </tr>
+   <tr>
+    <td>Snake Game</td>
+    <td>Browser Game</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>Java</td>
+    <td><div align="center"><a href="https://www.spotify.com/"><img src="https://img.utdstc.com/icon/ae6/a40/ae6a404098d0ec1195928f297dc9e90b3d6a511bd83d92ccce8976ac26a9606d:200" height="70"></div></td>
+  </tr>
 </table>
 
 # 🚀 🚀

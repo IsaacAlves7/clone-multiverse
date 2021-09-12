@@ -6,6 +6,11 @@
 # 🌌 How to start the Clone Multiverse? 🌌
 <div align="center"><a href="https://github.com/IsaacAlves7/google-clone"><img src="https://user-images.githubusercontent.com/61624336/132973848-5df55ef8-cb24-4504-ad3f-da032797a0d4.jpg" height="307"><img src="https://static.wixstatic.com/media/227c1c_3b1727183c2e4a3caeec58e7dba38937~mv2.gif" height="307"></a></div><br \>
 
+```npm
+npm install clone-multiverse 
+```
+
+
 # 🛸 IsaacAlves7: Open-Source Clone Projects Table 🛸
 
 <table>

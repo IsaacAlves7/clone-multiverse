@@ -1,10 +1,10 @@
 # :octocat: Clone Multiverse (powered by IsaacAlves7) 🌌
-<blockquote>I created a repository of clone projects!</blockquote>
+<blockquote>I created a repository of clone projects! It's a Clone Multiverse, Morty! Multiverse of Madness! No Way Home!</blockquote>
 
 <div align="center"><a href="https://github.com/IsaacAlves7/google-clone"><img src="https://fontmeme.com/temporary/bec0fd2d2f38674f101b1669de92fdc1.png"></a></div>
 
 # 🌌 How to start the Clone Multiverse? 🌌
-<div align="center"><a href="https://github.com/IsaacAlves7/google-clone"><img src="https://i.pinimg.com/736x/16/64/c5/1664c50e43535640ec7cc40d49b0b017--storm-troopers-web-development.jpg" height="307"></a></div><br \>
+<div align="center"><a href="https://github.com/IsaacAlves7/google-clone"><img src="https://user-images.githubusercontent.com/61624336/132973848-5df55ef8-cb24-4504-ad3f-da032797a0d4.jpg" height="307"><img src="https://static.wixstatic.com/media/227c1c_3b1727183c2e4a3caeec58e7dba38937~mv2.gif" height="307"></a></div><br \>
 
 # 🛸 IsaacAlves7: Open-Source Clone Projects Table 🛸
 
@@ -223,7 +223,7 @@
     <td></td>
     <td></td>
     <td></td>
-    <td><div align="center"><a href="https://www.facebook.com/"><img src="https://cdn.worldvectorlogo.com/logos/nike-4.svg" height="77"></a></div></td>
+    <td><div align="center"><a href="https://www.facebook.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a6/Logo_NIKE.svg" height="77"></a></div></td>
   </tr>
   <tr>
     <td>McDonald's</td>
@@ -513,7 +513,7 @@
 <div align="center"><a href="https://github.com/IsaacAlves7/google-clone"><img src="https://user-images.githubusercontent.com/61624336/132675774-73fa91b2-c5a4-43cb-b359-a2d3af10f0d2.png" height="307"></a></div><br \>
 
 # 🌑 Beware with the dark-side 🌑
-<div align="center"><a href="https://github.com/IsaacAlves7/google-clone"><img src="https://user-images.githubusercontent.com/61624336/132949781-d0d59432-3dcb-44c3-9cef-356d005b7240.png" height="307"></a></div><br \>
+<div align="center"><a href="https://github.com/IsaacAlves7/google-clone"><img src="https://i.pinimg.com/736x/16/64/c5/1664c50e43535640ec7cc40d49b0b017--storm-troopers-web-development.jpg" height="107"><img src="https://i.pinimg.com/736x/16/64/c5/1664c50e43535640ec7cc40d49b0b017--storm-troopers-web-development.jpg" height="107"><img src="https://user-images.githubusercontent.com/61624336/132949781-d0d59432-3dcb-44c3-9cef-356d005b7240.png" height="307"><img src="https://i.pinimg.com/736x/16/64/c5/1664c50e43535640ec7cc40d49b0b017--storm-troopers-web-development.jpg" height="107"><img src="https://i.pinimg.com/736x/16/64/c5/1664c50e43535640ec7cc40d49b0b017--storm-troopers-web-development.jpg" height="107"></a></div><br \>
 
 # 🪐 🪐
 <div align="center"><a href="https://github.com/IsaacAlves7/google-clone"><img src="https://user-images.githubusercontent.com/61624336/132676080-ec6c1a78-b9fb-451a-92ba-096470e8644e.png" height="257"></a></div><br \>

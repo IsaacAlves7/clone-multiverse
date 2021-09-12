@@ -561,6 +561,33 @@ npm install clone-multiverse
     <td>Java</td>
     <td><div align="center"><a href="https://www.spotify.com/"><img src="https://emojis.slackmojis.com/emojis/images/1556260759/5655/thanossnap.gif?1556260759" height="70"></div></td>
   </tr>
+    <tr>
+    <td>Rede Globo</td>
+    <td>Portal</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>Java</td>
+    <td><div align="center"><a href="https://www.spotify.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/0/09/Globo_logo_%282020-%29.svg" height="70"></div></td>
+  </tr>
+     <tr>
+    <td>Michelin</td>
+    <td>Portal</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>Java</td>
+    <td><div align="center"><a href="https://www.spotify.com/"><img src="https://cdn.worldvectorlogo.com/logos/michelin-6.svg" height="70"></div></td>
+  </tr>
+  <tr>
+    <td>Parmê</td>
+    <td>Portal</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>Java</td>
+    <td><div align="center"><a href="https://www.spotify.com/"><img src="https://pbs.twimg.com/profile_images/1347252394049077255/xS22RazI.jpg" height="70"></div></td>
+  </tr>
 </table>
 
 # 🚀 🚀

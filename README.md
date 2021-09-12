@@ -463,6 +463,24 @@ npm install clone-multiverse
     <td><div align="center"><a href="https://www.spotify.com/"><img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://mercadolivre.com.br&client=VFE&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2" height="70"></div></td>
   </tr>
     <tr>
+    <td>NBA</td>
+    <td>E-Commerce</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>Java</td>
+    <td><div align="center"><img src="https://cdn.worldvectorlogo.com/logos/nba-6.svg" height="70"></div></td>
+  </tr>
+  <tr>
+    <td>Los Angeles Lakers</td>
+    <td>E-Commerce</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>Java</td>
+    <td><div align="center"><img src="https://cdn.worldvectorlogo.com/logos/los-angeles-lakers-1.svg" height="70"></div></td>
+  </tr>
+    <tr>
     <td>Spider-Man</td>
     <td>All Spider-Man contents</td>
     <td></td>
@@ -695,6 +713,15 @@ npm install clone-multiverse
     <td></td>
     <td>Java</td>
     <td><div align="center"><a href="https://www.spotify.com/"><img src="https://cdn.worldvectorlogo.com/logos/discord-6.svg" height="70"></div></td>
+  </tr>
+  <tr>
+    <td>Harlem Globetrotters</td>
+    <td>Social Media</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>Java</td>
+    <td><div align="center"><a href="https://www.spotify.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Harlem_Globetrotters_Logo.png" height="70"></div></td>
   </tr>
   <tr>
     <td>Frogger</td>

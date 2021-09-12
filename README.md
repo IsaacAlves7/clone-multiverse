@@ -190,6 +190,15 @@
     <td><div align="center"><a href="https://www.facebook.com/"><img src="https://cdn.worldvectorlogo.com/logos/nike-4.svg" height="77"></a></div></td>
   </tr>
   <tr>
+    <td>McDonald's</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td><div align="center"><a href="https://www.netflix.com/"><img src="https://cdn.worldvectorlogo.com/logos/mcdonalds-5.svg" height="77"></td>
+  </tr>
+  <tr>
     <td>KFC</td>
     <td></td>
     <td></td>

@@ -378,6 +378,24 @@
     <td>Java</td>
     <td><div align="center"><a href="https://www.spotify.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Micrologo_Nintendo.svg" height="70"></div></td>
   </tr>
+  <tr>
+    <td>Playstation</td>
+    <td>All PC contents</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>Java</td>
+    <td><div align="center"><a href="https://www.spotify.com/"><img src="https://cdn.worldvectorlogo.com/logos/playstation-6.svg" height="70"></div></td>
+  </tr>
+    <tr>
+    <td>Xbox</td>
+    <td>All PC contents</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>Java</td>
+    <td><div align="center"><a href="https://www.spotify.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/f/f9/Xbox_one_logo.svg" height="70"></div></td>
+  </tr>
 </table>
 
 # 🚀 🚀

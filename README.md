@@ -140,12 +140,21 @@ npm install clone-multiverse
   </tr>
     <tr>
     <td>Amazon</td>
-    <td>E-Commerce</td>
+    <td>E-Commerce/ Amazon Prime Video</td>
     <td></td>
     <td></td>
     <td></td>
     <td></td>
     <td><div align="center"><a href="https://www.netflix.com/"><img src="https://cdn.worldvectorlogo.com/logos/amazon-icon-1.svg" height="77"></div></td>
+  </tr>
+ <tr>
+    <td>HBO Max</td>
+    <td>Streaming Movies/ Video</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td><div align="center"><a href="https://www.netflix.com/"><img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://hbomax.com&client=VFE&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2" height="77"></div></td>
   </tr>
   <tr>
     <td>Microsoft</td>
@@ -200,6 +209,15 @@ npm install clone-multiverse
     <td></td>
     <td></td>
     <td><div align="center"><a href="https://www.netflix.com/"><img src="https://cdn.worldvectorlogo.com/logos/new-logo-drive-google.svg" height="77"></div></td>
+  </tr>
+  <tr>
+    <td>Memory Game</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td><div align="center"><a href="https://www.netflix.com/"><img src="https://i.pinimg.com/originals/6b/81/a1/6b81a1049b32cfa0fe2038fbc0a6d097.png" height="77"></div></td>
   </tr>
   <tr>
     <td>Cobra Kai</td>

@@ -54,6 +54,15 @@
     <td></td>
     <td><div align="center"><a href="https://www.facebook.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" height="77"></a></div></td>
   </tr>
+   <tr>
+    <td>Orkut</td>
+    <td>Social Media</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td><div align="center"><a href="https://www.facebook.com/"><img src="https://icons.iconarchive.com/icons/uiconstock/socialmedia/512/Orkut-icon.png" height="77"></a></div></td>
+  </tr>
     <tr>
     <td>WhatsApp</td>
     <td>Social Media</td>
@@ -106,7 +115,7 @@
     <td></td>
     <td></td>
     <td></td>
-    <td><div align="center"><a href="https://www.netflix.com/"><img src="https://www.vectorlogo.zone/logos/google/google-icon.svg" height="77"></div></td>
+    <td><div align="center"><a href="https://www.netflix.com/"><img src="https://cdn.worldvectorlogo.com/logos/youtube-icon.svg" height="77"></div></td>
   </tr>
   <tr>
     <td>Google Drive</td>
@@ -115,7 +124,7 @@
     <td></td>
     <td></td>
     <td></td>
-    <td><div align="center"><a href="https://www.netflix.com/"><img src="https://www.vectorlogo.zone/logos/google/google-icon.svg" height="77"></div></td>
+    <td><div align="center"><a href="https://www.netflix.com/"><img src="https://cdn.worldvectorlogo.com/logos/new-logo-drive-google.svg" height="77"></div></td>
   </tr>
   <tr>
     <td>Cobra Kai</td>
@@ -164,7 +173,7 @@
   </tr>
   <tr>
     <td>Simon Game</td>
-    <td></td>
+    <td>Browser Game</td>
     <td></td>
     <td></td>
     <td></td>
@@ -254,12 +263,39 @@
   </tr>
   <tr>
     <td>Doctor Who</td>
-    <td>PC Game</td>
+    <td>All Doctor Who contents</td>
     <td></td>
     <td></td>
     <td></td>
     <td>Java</td>
     <td><div align="center"><a href="https://www.spotify.com/"><img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/ced5b0bc-6e16-486d-9f98-fd7a14e349ce/d6xu93g-d9574230-489a-43fd-8d3d-af41a0811f3d.png" height="70"></div></td>
+  </tr>
+  <tr>
+    <td>Mercado Livre</td>
+    <td>E-Commerce</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>Java</td>
+    <td><div align="center"><a href="https://www.spotify.com/"><img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://mercadolivre.com.br&client=VFE&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2" height="70"></div></td>
+  </tr>
+    <tr>
+    <td>Spider-Man</td>
+    <td>All Spider-Man contents</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>Java</td>
+    <td><div align="center"><a href="https://www.spotify.com/"><img src="https://cdn.worldvectorlogo.com/logos/spiderman-homecoming-1.svg" height="70"></div></td>
+  </tr>
+  <tr>
+    <td>Wikipedia</td>
+    <td>All Spider-Man contents</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>Java</td>
+    <td><div align="center"><a href="https://www.spotify.com/"><img src="https://cdn.worldvectorlogo.com/logos/wikipedia.svg" height="70"></div></td>
   </tr>
 </table>
 

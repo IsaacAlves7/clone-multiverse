@@ -73,6 +73,24 @@
     <td><div align="center"><a href="https://www.facebook.com/"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" height="77"></a></div></td>
   </tr>
     <tr>
+    <td>Telegram</td>
+    <td>Social Media</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td><div align="center"><a href="https://www.facebook.com/"><img src="https://cdn.worldvectorlogo.com/logos/telegram-1.svg" height="77"></a></div></td>
+  </tr>
+  <tr>
+    <td>Zoom</td>
+    <td>Social Media</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td><div align="center"><a href="https://www.facebook.com/"><img src="https://cdn.worldvectorlogo.com/logos/zoom-5.svg" height="77"></a></div></td>
+  </tr>
+    <tr>
     <td>WhatsApp</td>
     <td>Social Media</td>
     <td></td>

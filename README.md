@@ -252,6 +252,15 @@
     <td></td>
     <td><div align="center"><a href="https://www.netflix.com/"><img src="https://cdn.worldvectorlogo.com/logos/simon-game-logo.svg" height="77"></td>
   </tr>
+ <tr>
+    <td>Chess Game</td>
+    <td>Browser Game</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td><div align="center"><a href="https://www.netflix.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/4/47/Chess_qdt45.svg" height="77"></td>
+  </tr>
   <tr>
     <td>Disney+</td>
     <td></td>

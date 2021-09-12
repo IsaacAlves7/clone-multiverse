@@ -136,6 +136,24 @@
     <td><div align="center"><a href="https://www.netflix.com/"><img src="https://cdn.worldvectorlogo.com/logos/starbucks.svg" height="77"></td>
   </tr>
   <tr>
+    <td>KFC</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td><div align="center"><a href="https://www.netflix.com/"><img src="https://cdn.worldvectorlogo.com/logos/logo-kfc-colonel.svg" height="77"></td>
+  </tr>
+  <tr>
+    <td>Simon Game</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td><div align="center"><a href="https://www.netflix.com/"><img src="https://cdn.worldvectorlogo.com/logos/simon-game-logo.svg" height="77"></td>
+  </tr>
+  <tr>
     <td>Disney+</td>
     <td></td>
     <td></td>
@@ -146,7 +164,7 @@
   </tr>
   <tr>
     <td>Domino's</td>
-    <td></td>
+    <td>Restaurant Website</td>
     <td></td>
     <td></td>
     <td></td>
@@ -191,14 +209,14 @@
   </tr>
   <tr>
     <td>Star Wars</td>
-    <td>Typing Title/ Credits Effect</td>
+    <td>All Star Wars contents</td>
     <td></td>
     <td></td>
     <td></td>
     <td></td>
     <td><div align="center"><a href="https://www.spotify.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/2/22/StormtrooperHelmetIcon.svg" height="70"></div></td>
   </tr>
-    <tr>
+  <tr>
     <td>Minecraft</td>
     <td>PC Game</td>
     <td></td>
@@ -206,6 +224,15 @@
     <td></td>
     <td>Java</td>
     <td><div align="center"><a href="https://www.spotify.com/"><img src="https://cdn.worldvectorlogo.com/logos/minecraft-1.svg" height="70"></div></td>
+  </tr>
+  <tr>
+    <td>Doctor Who</td>
+    <td>PC Game</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>Java</td>
+    <td><div align="center"><a href="https://www.spotify.com/"><img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/ced5b0bc-6e16-486d-9f98-fd7a14e349ce/d6xu93g-d9574230-489a-43fd-8d3d-af41a0811f3d.png" height="70"></div></td>
   </tr>
 </table>
 

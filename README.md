@@ -495,6 +495,15 @@
     <td>Java</td>
     <td><div align="center"><a href="https://www.spotify.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Emacs_Tetris_vector_based_detail.svg" height="70"></div></td>
   </tr>
+  <tr>
+    <td>Super Mario Bros (1995)</td>
+    <td>PC Game</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>Java</td>
+    <td><div align="center"><a href="https://www.spotify.com/"><img src="https://i.pinimg.com/originals/00/22/51/002251ab93aa8a09b5090fc4ad951f8c.png" height="70"></div></td>
+  </tr>
 </table>
 
 # 🚀 🚀

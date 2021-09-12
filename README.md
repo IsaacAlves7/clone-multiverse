@@ -552,6 +552,15 @@ npm install clone-multiverse
     <td>Java</td>
     <td><div align="center"><a href="https://www.spotify.com/"><img src="https://img.utdstc.com/icon/ae6/a40/ae6a404098d0ec1195928f297dc9e90b3d6a511bd83d92ccce8976ac26a9606d:200" height="70"></div></td>
   </tr>
+    <tr>
+    <td>Thanos Snap</td>
+    <td>Browser Effect</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>Java</td>
+    <td><div align="center"><a href="https://www.spotify.com/"><img src="https://emojis.slackmojis.com/emojis/images/1556260759/5655/thanossnap.gif?1556260759" height="70"></div></td>
+  </tr>
 </table>
 
 # 🚀 🚀

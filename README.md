@@ -8,7 +8,7 @@
 
 Este multiverso é composto de projetos que criei ao longo da carreira, cujo você pode testa-los, recriá-los, brincar com eles, e estudar também!
 
-## <img src="https://i.pinimg.com/originals/90/a2/16/90a216afeaa879b0748841770bd64e1e.png" height="27"> Installation
+##  <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/10eb87cb-ecf2-4988-b86d-ab932c1dd9de/dcaq88r-98a0adf4-dc60-4cd2-ba84-d58ca59480ac.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzEwZWI4N2NiLWVjZjItNDk4OC1iODZkLWFiOTMyYzFkZDlkZVwvZGNhcTg4ci05OGEwYWRmNC1kYzYwLTRjZDItYmE4NC1kNThjYTU5NDgwYWMucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.HKeZGaDlqUiqq5Ma9U7OGioW95lzgyVPaIib-8Y60uI" height="27"> Installation  <img src="https://i.pinimg.com/originals/90/a2/16/90a216afeaa879b0748841770bd64e1e.png" height="27"> 
 
 ```npm
 npm install clone-multiverse

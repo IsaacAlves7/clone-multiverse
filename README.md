@@ -3,6 +3,8 @@
 
 <div align="center"><a href="https://github.com/IsaacAlves7/google-clone"><img src="https://user-images.githubusercontent.com/61624336/132976982-5ba16744-e161-492f-9e9f-eb873cd5c41e.png"></a></div>
 
+<blockquote><b>WARNING:</b> Choose one dimension per </blockquote>
+
 # 🌌 How to start the Clone Multiverse? 🌌
 <div align="center"><a href="https://github.com/IsaacAlves7/google-clone"><img src="https://user-images.githubusercontent.com/61624336/132973848-5df55ef8-cb24-4504-ad3f-da032797a0d4.jpg" height="307"><img src="https://static.wixstatic.com/media/227c1c_3b1727183c2e4a3caeec58e7dba38937~mv2.gif" height="307"></a></div><br \>
 
@@ -522,6 +524,24 @@ npm install clone-multiverse
     <td></td>
     <td>Java</td>
     <td><div align="center"><a href="https://www.spotify.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Pacman.svg" height="70"></div></td>
+  </tr>
+  <tr>
+    <td>The Legend of Zelda</td>
+    <td>PC Game</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>Java</td>
+    <td><div align="center"><a href="https://www.spotify.com/"><img src="https://pa1.narvii.com/6579/ecb076a5f44906c922ac0e772c8ac66506817d5d_hq.gif" height="70"></div></td>
+  </tr>
+  <tr>
+    <td>Flappy Bird</td>
+    <td>PC Game</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>Java</td>
+    <td><div align="center"><a href="https://www.spotify.com/"><img src="https://pngimage.net/wp-content/uploads/2018/06/flappy-bird-png-2.png" height="70"></div></td>
   </tr>
 </table>
 

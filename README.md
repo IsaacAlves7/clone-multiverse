@@ -262,6 +262,15 @@
     <td><div align="center"><a href="https://www.instagram.com/"><img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://habibs.com.br&client=VFE&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2" height="77"></a></div></td>
   </tr>
   <tr>
+    <td>iFood</td>
+    <td>Restaurant Website</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td><div align="center"><a href="https://www.instagram.com/"><img src="https://cdn.worldvectorlogo.com/logos/ifood-logo.svg" height="77"></a></div></td>
+  </tr>
+  <tr>
     <td>Subway</td>
     <td>Restaurant Website</td>
     <td></td>

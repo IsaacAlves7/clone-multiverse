@@ -81,6 +81,15 @@
     <td></td>
     <td><div align="center"><a href="https://www.facebook.com/"><img src="https://cdn.worldvectorlogo.com/logos/whatsapp-icon.svg" height="77"></a></div></td>
   </tr>
+  <tr>
+    <td>Slack</td>
+    <td>Social Media</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td><div align="center"><a href="https://www.facebook.com/"><img src="https://cdn.worldvectorlogo.com/logos/slack-new-logo.svg" height="77"></a></div></td>
+  </tr>
     <tr>
     <td>TikTok</td>
     <td></td>

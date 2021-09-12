@@ -237,6 +237,15 @@ npm install clone-multiverse
     <td></td>
     <td><div align="center"><a href="https://www.netflix.com/"><img src="https://cdn.worldvectorlogo.com/logos/airbnb-1.svg" height="77"></div></td>
   </tr>
+   <tr>
+    <td>Checkers Game</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td><div align="center"><a href="https://www.netflix.com/"><img src="https://images-na.ssl-images-amazon.com/images/I/81FKbj2NTML.png" height="77"></div></td>
+  </tr>
   <tr>
     <td>Snapchat</td>
     <td></td>
@@ -263,6 +272,15 @@ npm install clone-multiverse
     <td></td>
     <td></td>
     <td><div align="center"><a href="https://www.facebook.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a6/Logo_NIKE.svg" height="77"></a></div></td>
+  </tr>
+  <tr>
+    <td>Asteroids</td>
+    <td>PC Game</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td><div align="center"><a href="https://www.facebook.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/1/10/Asteroids_arcade_logo.svg" height="77"></a></div></td>
   </tr>
   <tr>
     <td>McDonald's</td>
@@ -455,12 +473,21 @@ npm install clone-multiverse
   </tr>
   <tr>
     <td>Wikipedia</td>
-    <td>All Spider-Man contents</td>
+    <td>Wikipedia API</td>
     <td></td>
     <td></td>
     <td></td>
     <td>Java</td>
     <td><div align="center"><a href="https://www.spotify.com/"><img src="https://cdn.worldvectorlogo.com/logos/wikipedia.svg" height="70"></div></td>
+  </tr>
+  <tr>
+    <td>Space Invaders</td>
+    <td>PC Game</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>Java</td>
+    <td><div align="center"><a href="https://www.spotify.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Space_invaders_alien.svg" height="70"></div></td>
   </tr>
   <tr>
     <td>PC Magazine</td>

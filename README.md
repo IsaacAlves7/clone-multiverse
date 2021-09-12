@@ -1,7 +1,7 @@
-# :octocat: Clone Wars (powered by IsaacAlves7) 👽🛸
+# :octocat: Clone Multiverse (powered by IsaacAlves7) 👽🛸
 <blockquote>I created a repository of clone projects!</blockquote>
 
-<div align="center"><a href="https://github.com/IsaacAlves7/google-clone"><img src="https://user-images.githubusercontent.com/61624336/132105244-eb380379-29ae-47d6-b7a4-3173eae3bee5.png"></a></div>
+<div align="center"><a href="https://github.com/IsaacAlves7/google-clone"><img src="https://fontmeme.com/temporary/bec0fd2d2f38674f101b1669de92fdc1.png"></a></div>
 
 # 👽 How to start the Clone Wars? 👽
 <div align="center"><a href="https://github.com/IsaacAlves7/google-clone"><img src="https://i.pinimg.com/736x/16/64/c5/1664c50e43535640ec7cc40d49b0b017--storm-troopers-web-development.jpg" height="307"></a></div><br \>
@@ -512,6 +512,7 @@
 # 🌕 🌕
 <div align="center"><a href="https://github.com/IsaacAlves7/google-clone"><img src="https://user-images.githubusercontent.com/61624336/132675774-73fa91b2-c5a4-43cb-b359-a2d3af10f0d2.png" height="307"></a></div><br \>
 
+# 🌑 Beware with the dark-side 🌑
 <div align="center"><a href="https://github.com/IsaacAlves7/google-clone"><img src="https://user-images.githubusercontent.com/61624336/132949781-d0d59432-3dcb-44c3-9cef-356d005b7240.png" height="307"></a></div><br \>
 
 # 🪐 🪐

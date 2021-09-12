@@ -118,6 +118,15 @@
     <td><div align="center"><a href="https://www.netflix.com/"><img src="https://www.vectorlogo.zone/logos/google/google-icon.svg" height="77"></div></td>
   </tr>
   <tr>
+    <td>Coca-Cola</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td><div align="center"><a href="https://www.netflix.com/"><img src="https://cdn.worldvectorlogo.com/logos/coca-cola-4.svg" height="77"></div></td>
+  </tr>
+  <tr>
     <td>YouTube</td>
     <td></td>
     <td></td>

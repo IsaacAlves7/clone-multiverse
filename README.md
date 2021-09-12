@@ -273,6 +273,15 @@ npm install clone-multiverse
     <td></td>
     <td><div align="center"><a href="https://www.netflix.com/"><img src="https://cdn.worldvectorlogo.com/logos/simon-game-logo.svg" height="77"></td>
   </tr>
+  <tr>
+    <td>Pip Boy - Fallout 4</td>
+    <td>Browser Game</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td><div align="center"><a href="https://www.netflix.com/"><img src="https://b.thumbs.redditmedia.com/v3dQRwvfHx9Qot7EB4waeQjRFv6B7bhXaNJOMrJ7PTg.png" height="77"></td>
+  </tr>
  <tr>
     <td>Chess Game</td>
     <td>Browser Game</td>
@@ -353,6 +362,15 @@ npm install clone-multiverse
     <td></td>
     <td></td>
     <td><div align="center"><a href="https://www.instagram.com/"><img src="https://cdn.worldvectorlogo.com/logos/github-icon-1.svg" height="77"></a></div></td>
+  </tr>
+ <tr>
+    <td>J.A.R.V.I.S</td>
+    <td>IA</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td><div align="center"><a href="https://www.spotify.com/"><img src="https://static.wikia.nocookie.net/the_avengers_emh__joss_whedon_series_0/images/d/d7/JARVIS_Logo.png/revision/latest?cb=20200514021931" height="70"></div></td>
   </tr>
   <tr>
     <td>Star Wars</td>
@@ -515,6 +533,15 @@ npm install clone-multiverse
     <td></td>
     <td>Java</td>
     <td><div align="center"><a href="https://www.spotify.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Emacs_Tetris_vector_based_detail.svg" height="70"></div></td>
+  </tr>
+  <tr>
+    <td>Tik Tak Toe game</td>
+    <td>All PC contents</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>Java</td>
+    <td><div align="center"><a href="https://www.spotify.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/3/32/Tic_tac_toe.svg" height="70"></div></td>
   </tr>
   <tr>
     <td>Super Mario Bros (1995)</td>

@@ -166,6 +166,15 @@ npm install clone-multiverse
     <td><div align="center"><a href="https://www.netflix.com/"><img src="https://www.vectorlogo.zone/logos/google/google-icon.svg" height="77"></div></td>
   </tr>
   <tr>
+    <td>Gmail</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td><div align="center"><a href="https://www.netflix.com/"><img src="https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg" height="77"></div></td>
+  </tr>
+  <tr>
     <td>Coca-Cola</td>
     <td></td>
     <td></td>

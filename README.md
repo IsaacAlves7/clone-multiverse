@@ -63,7 +63,7 @@
     <td></td>
     <td><div align="center"><a href="https://www.facebook.com/"><img src="https://icons.iconarchive.com/icons/uiconstock/socialmedia/512/Orkut-icon.png" height="77"></a></div></td>
   </tr>
-     <tr>
+  <tr>
     <td>LinkedIn</td>
     <td>Social Media</td>
     <td></td>
@@ -170,6 +170,15 @@
     <td></td>
     <td></td>
     <td><div align="center"><a href="https://www.netflix.com/"><img src="https://cdn.worldvectorlogo.com/logos/starbucks.svg" height="77"></td>
+  </tr>
+  <tr>
+    <td>Nike</td>
+    <td>E-Commerce</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td><div align="center"><a href="https://www.facebook.com/"><img src="https://cdn.worldvectorlogo.com/logos/nike-4.svg" height="77"></a></div></td>
   </tr>
   <tr>
     <td>KFC</td>

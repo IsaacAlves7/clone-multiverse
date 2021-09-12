@@ -91,7 +91,25 @@
     <td><div align="center"><a href="https://www.netflix.com/"><img src="https://cdn.worldvectorlogo.com/logos/amazon-icon-1.svg" height="77"></div></td>
   </tr>
     <tr>
-    <td>Google Search Page</td>
+    <td>Google Search</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td><div align="center"><a href="https://www.netflix.com/"><img src="https://www.vectorlogo.zone/logos/google/google-icon.svg" height="77"></div></td>
+  </tr>
+  <tr>
+    <td>YouTube</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td><div align="center"><a href="https://www.netflix.com/"><img src="https://www.vectorlogo.zone/logos/google/google-icon.svg" height="77"></div></td>
+  </tr>
+  <tr>
+    <td>Google Drive</td>
     <td></td>
     <td></td>
     <td></td>

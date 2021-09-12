@@ -486,6 +486,15 @@
     <td>Java</td>
     <td><div align="center"><a href="https://www.spotify.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Chromium_T-Rex-error-offline.svg" height="70"></div></td>
   </tr>
+  <tr>
+    <td>Tetris game</td>
+    <td>All PC contents</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>Java</td>
+    <td><div align="center"><a href="https://www.spotify.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Emacs_Tetris_vector_based_detail.svg" height="70"></div></td>
+  </tr>
 </table>
 
 # 🚀 🚀

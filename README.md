@@ -6,7 +6,7 @@
 # 👽 How to start the Clone Wars? 👽
 <div align="center"><a href="https://github.com/IsaacAlves7/google-clone"><img src="https://i.pinimg.com/736x/16/64/c5/1664c50e43535640ec7cc40d49b0b017--storm-troopers-web-development.jpg" height="307"></a></div><br \>
 
-# 🛸 Clone Projects Table 🛸
+# 🛸 IsaacAlves7: Open-Source Clone Projects Table 🛸
 
 <table>
   <tr>
@@ -316,6 +316,15 @@
     <td><div align="center"><a href="https://www.spotify.com/"><img src="https://cdn.worldvectorlogo.com/logos/minecraft-1.svg" height="70"></div></td>
   </tr>
   <tr>
+    <td>Lego</td>
+    <td>PC Game</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>Java</td>
+    <td><div align="center"><a href="https://www.spotify.com/"><img src="https://cdn.worldvectorlogo.com/logos/lego-2.svg" height="70"></div></td>
+  </tr>
+  <tr>
     <td>Doctor Who</td>
     <td>All Doctor Who contents</td>
     <td></td>
@@ -350,6 +359,15 @@
     <td></td>
     <td>Java</td>
     <td><div align="center"><a href="https://www.spotify.com/"><img src="https://cdn.worldvectorlogo.com/logos/wikipedia.svg" height="70"></div></td>
+  </tr>
+  <tr>
+    <td>PC Magazine</td>
+    <td>All PC contents</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>Java</td>
+    <td><div align="center"><a href="https://www.spotify.com/"><img src="https://cdn.worldvectorlogo.com/logos/pc-magazine-2.svg" height="70"></div></td>
   </tr>
 </table>
 

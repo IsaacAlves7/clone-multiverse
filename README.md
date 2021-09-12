@@ -217,6 +217,15 @@
     <td><div align="center"><a href="https://www.spotify.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/2/22/StormtrooperHelmetIcon.svg" height="70"></div></td>
   </tr>
   <tr>
+    <td>Star Trek</td>
+    <td>All Star Trek contents</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td><div align="center"><a href="https://www.spotify.com/"><img src="https://cdn.worldvectorlogo.com/logos/star-trek-command.svg" height="70"></div></td>
+  </tr>
+  <tr>
     <td>Minecraft</td>
     <td>PC Game</td>
     <td></td>

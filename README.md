@@ -1,9 +1,9 @@
-# :octocat: Clone Multiverse (powered by IsaacAlves7) 👽🛸
+# :octocat: Clone Multiverse (powered by IsaacAlves7) 🌌
 <blockquote>I created a repository of clone projects!</blockquote>
 
 <div align="center"><a href="https://github.com/IsaacAlves7/google-clone"><img src="https://fontmeme.com/temporary/bec0fd2d2f38674f101b1669de92fdc1.png"></a></div>
 
-# 👽 How to start the Clone Wars? 👽
+# 🌌 How to start the Clone Multiverse? 🌌
 <div align="center"><a href="https://github.com/IsaacAlves7/google-clone"><img src="https://i.pinimg.com/736x/16/64/c5/1664c50e43535640ec7cc40d49b0b017--storm-troopers-web-development.jpg" height="307"></a></div><br \>
 
 # 🛸 IsaacAlves7: Open-Source Clone Projects Table 🛸

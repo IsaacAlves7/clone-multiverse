@@ -1,7 +1,7 @@
 # :octocat: Clone Multiverse (powered by IsaacAlves7) 🌌
-<blockquote>I created a repository of clone projects! It's a Clone Multiverse, Morty! Multiverse of Madness! No Way Home!</blockquote>
+<blockquote>I created a repository of clone projects! It's a Clone Multiverse, Dev! Multiverse of Madness! No Way Home!</blockquote>
 
-<div align="center"><a href="https://github.com/IsaacAlves7/google-clone"><img src="https://fontmeme.com/temporary/bec0fd2d2f38674f101b1669de92fdc1.png"></a></div>
+<div align="center"><a href="https://github.com/IsaacAlves7/google-clone"><img src="https://user-images.githubusercontent.com/61624336/132976982-5ba16744-e161-492f-9e9f-eb873cd5c41e.png"></a></div>
 
 # 🌌 How to start the Clone Multiverse? 🌌
 <div align="center"><a href="https://github.com/IsaacAlves7/google-clone"><img src="https://user-images.githubusercontent.com/61624336/132973848-5df55ef8-cb24-4504-ad3f-da032797a0d4.jpg" height="307"><img src="https://static.wixstatic.com/media/227c1c_3b1727183c2e4a3caeec58e7dba38937~mv2.gif" height="307"></a></div><br \>
@@ -16,6 +16,7 @@ npm install clone-multiverse
 
 
 # 🛸 IsaacAlves7: Open-Source Clone Projects Table 🛸
+<div align="center"><a href="https://github.com/IsaacAlves7/google-clone"><img src="https://fontmeme.com/temporary/bec0fd2d2f38674f101b1669de92fdc1.png"></a></div>
 
 <table>
   <tr>

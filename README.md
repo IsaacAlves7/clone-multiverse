@@ -108,6 +108,15 @@
     <td></td>
     <td><div align="center"><a href="https://www.netflix.com/"><img src="https://cdn.worldvectorlogo.com/logos/amazon-icon-1.svg" height="77"></div></td>
   </tr>
+  <tr>
+    <td>Microsoft</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td><div align="center"><a href="https://www.netflix.com/"><img src="https://cdn.worldvectorlogo.com/logos/microsoft-5.svg" height="77"></div></td>
+  </tr>
     <tr>
     <td>Google Search</td>
     <td></td>
@@ -395,6 +404,33 @@
     <td></td>
     <td>Java</td>
     <td><div align="center"><a href="https://www.spotify.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/f/f9/Xbox_one_logo.svg" height="70"></div></td>
+  </tr>
+  <tr>
+    <td>Steam</td>
+    <td>All PC contents</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>Java</td>
+    <td><div align="center"><a href="https://www.spotify.com/"><img src="https://cdn.worldvectorlogo.com/logos/steam-icon-logo.svg" height="70"></div></td>
+  </tr>
+  <tr>
+    <td>Epic Games</td>
+    <td>All PC contents</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>Java</td>
+    <td><div align="center"><a href="https://www.spotify.com/"><img src="https://cdn.worldvectorlogo.com/logos/epic-games-2.svg" height="70"></div></td>
+  </tr>
+    <tr>
+    <td>Game of Thrones</td>
+    <td>All Ice and Fire Chronicles contents</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>Java</td>
+    <td><div align="center"><a href="https://www.spotify.com/"><img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/6781913c-2310-4121-82ec-1a92822f8deb/d4qxstd-1f02b360-604a-4380-87b9-ab8e5dbc21ee.png/v1/fill/w_809,h_931,strp/a_song_of_storm_and_fire_iron_throne_by_azraeuz_d4qxstd-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9OTMxIiwicGF0aCI6IlwvZlwvNjc4MTkxM2MtMjMxMC00MTIxLTgyZWMtMWE5MjgyMmY4ZGViXC9kNHF4c3RkLTFmMDJiMzYwLTYwNGEtNDM4MC04N2I5LWFiOGU1ZGJjMjFlZS5wbmciLCJ3aWR0aCI6Ijw9ODA5In1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.xqR1QNsiZHyDxJDXKsJ5TK15L5_-hj3EH0CIE8nkej4" height="70"></div></td>
   </tr>
 </table>
 

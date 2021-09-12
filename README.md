@@ -369,6 +369,15 @@
     <td>Java</td>
     <td><div align="center"><a href="https://www.spotify.com/"><img src="https://cdn.worldvectorlogo.com/logos/pc-magazine-2.svg" height="70"></div></td>
   </tr>
+  <tr>
+    <td>Nintendo</td>
+    <td>All PC contents</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>Java</td>
+    <td><div align="center"><a href="https://www.spotify.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Micrologo_Nintendo.svg" height="70"></div></td>
+  </tr>
 </table>
 
 # 🚀 🚀

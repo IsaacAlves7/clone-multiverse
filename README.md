@@ -18,7 +18,6 @@ npm install clone-multiverse
 
 
 # 🛸 IsaacAlves7: Open-Source Clone Projects Table 🛸
-<div align="center"><a href="https://github.com/IsaacAlves7/google-clone"><img src="https://fontmeme.com/temporary/bec0fd2d2f38674f101b1669de92fdc1.png"></a></div>
 
 <table>
   <tr>
@@ -777,7 +776,7 @@ npm install clone-multiverse
 <div align="center"><a href="https://github.com/IsaacAlves7/google-clone"><img src="https://user-images.githubusercontent.com/61624336/132675774-73fa91b2-c5a4-43cb-b359-a2d3af10f0d2.png" height="307"></a></div><br \>
 
 # 🌑 Beware with the dark-side 🌑
-<div align="center"><a href="https://github.com/IsaacAlves7/google-clone"><img src="https://i.pinimg.com/736x/16/64/c5/1664c50e43535640ec7cc40d49b0b017--storm-troopers-web-development.jpg" height="107"><img src="https://i.pinimg.com/736x/16/64/c5/1664c50e43535640ec7cc40d49b0b017--storm-troopers-web-development.jpg" height="107"><img src="https://user-images.githubusercontent.com/61624336/132949781-d0d59432-3dcb-44c3-9cef-356d005b7240.png" height="307"><img src="https://i.pinimg.com/736x/16/64/c5/1664c50e43535640ec7cc40d49b0b017--storm-troopers-web-development.jpg" height="107"><img src="https://i.pinimg.com/736x/16/64/c5/1664c50e43535640ec7cc40d49b0b017--storm-troopers-web-development.jpg" height="107"></a></div><br \>
+<div align="center"><a href="https://github.com/IsaacAlves7/google-clone"><img src="https://user-images.githubusercontent.com/61624336/132949781-d0d59432-3dcb-44c3-9cef-356d005b7240.png" height="307"></a></div><br \>
 
 # 🪐 🪐
 <div align="center"><a href="https://github.com/IsaacAlves7/google-clone"><img src="https://user-images.githubusercontent.com/61624336/132676080-ec6c1a78-b9fb-451a-92ba-096470e8644e.png" height="257"></a></div><br \>

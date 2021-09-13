@@ -490,6 +490,15 @@ npm install clone-multiverse
     <td><div align="center"><img src="https://cdn.worldvectorlogo.com/logos/los-angeles-lakers-1.svg" height="70"></div></td>
   </tr>
     <tr>
+    <td>New York Knicks</td>
+    <td>E-Commerce</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>Java</td>
+    <td><div align="center"><img src="https://upload.wikimedia.org/wikipedia/en/2/25/New_York_Knicks_logo.svg" height="70"></div></td>
+  </tr>
+    <tr>
     <td>Spider-Man</td>
     <td>All Spider-Man contents</td>
     <td></td>

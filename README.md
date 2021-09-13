@@ -398,6 +398,15 @@ npm install clone-multiverse
     <td></td>
     <td><div align="center"><a href="https://www.instagram.com/"><img src="https://cdn.worldvectorlogo.com/logos/github-icon-1.svg" height="77"></a></div></td>
   </tr>
+   <tr>
+    <td>Paramount+</td>
+    <td>Remote Repository</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td><div align="center"><a href="https://www.instagram.com/"><img src="https://static.wikia.nocookie.net/logopedia/images/7/73/Paramount%2B_%28Symbol%29.svg/revision/latest/scale-to-width-down/250?cb=20210125103607" height="77"></a></div></td>
+  </tr>
   <tr>
     <td>Back to the Future</td>
     <td>DeLorean Time Machine</td>
@@ -770,7 +779,7 @@ npm install clone-multiverse
 </table>
 
 # 🚀 🚀
-<div align="center"><a href="https://github.com/IsaacAlves7/google-clone"><img src="https://user-images.githubusercontent.com/61624336/132675879-ad374d3e-4908-4f19-85e7-86dd9d0fc3ac.png" height="277"></a></div><br \>
+<div align="center"><a href="https://github.com/IsaacAlves7/google-clone"><img src="https://user-images.githubusercontent.com/61624336/132675879-ad374d3e-4908-4f19-85e7-86dd9d0fc3ac.png" height="177"></a></div><br \>
 
 # 🌕 🌕
 <div align="center"><a href="https://github.com/IsaacAlves7/google-clone"><img src="https://user-images.githubusercontent.com/61624336/132675774-73fa91b2-c5a4-43cb-b359-a2d3af10f0d2.png" height="307"></a></div><br \>

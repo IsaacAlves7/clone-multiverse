@@ -624,6 +624,15 @@ npm install clone-multiverse
     <td>Java</td>
     <td><div align="center"><a href="https://www.spotify.com/"><img src="https://i.pinimg.com/originals/00/22/51/002251ab93aa8a09b5090fc4ad951f8c.png" height="70"></div></td>
   </tr>
+  <tr>
+    <td>Google Maps</td>
+    <td>PC Game</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>Java</td>
+    <td><div align="center"><a href="https://www.spotify.com/"><img src="https://cdn.worldvectorlogo.com/logos/google-maps-2020-icon.svg" height="70"></div></td>
+  </tr>
     <tr>
     <td>Pac-Man</td>
     <td>PC Game</td>

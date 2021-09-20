@@ -146,6 +146,15 @@ npm install clone-multiverse
     <td></td>
     <td><div align="center"><a href="https://www.netflix.com/"><img src="https://cdn.worldvectorlogo.com/logos/amazon-icon-1.svg" height="77"></div></td>
   </tr>
+  <tr>
+    <td>Pinterest</td>
+    <td>Social Media</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td><div align="center"><a href="https://www.netflix.com/"><img src="https://cdn.worldvectorlogo.com/logos/pinterest-1.svg" height="77"></div></td>
+  </tr>
  <tr>
     <td>HBO Max</td>
     <td>Streaming Movies/ Video</td>
@@ -315,7 +324,7 @@ npm install clone-multiverse
     <td></td>
     <td></td>
     <td></td>
-    <td><div align="center"><a href="https://www.netflix.com/"><img src="https://b.thumbs.redditmedia.com/v3dQRwvfHx9Qot7EB4waeQjRFv6B7bhXaNJOMrJ7PTg.png" height="77"></td>
+    <td><div align="center"><a href="https://www.netflix.com/"><img src="https://pngimg.com/uploads/fallout/fallout_PNG64.png" height="77"></td>
   </tr>
  <tr>
     <td>Chess Game</td>

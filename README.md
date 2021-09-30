@@ -3,7 +3,7 @@
 
 <div align="center"><a href="https://github.com/IsaacAlves7/google-clone"><img src="https://user-images.githubusercontent.com/61624336/132976982-5ba16744-e161-492f-9e9f-eb873cd5c41e.png"></a></div>
 
-<div align="center"><img src="https://user-images.githubusercontent.com/61624336/135540008-784d3a25-53e6-4c59-b8cc-e7328ee4dcc9.jpg"></div>
+<div align="center"><img src="https://user-images.githubusercontent.com/61624336/135540008-784d3a25-53e6-4c59-b8cc-e7328ee4dcc9.jpg" height="407"><img src="https://blueprintgaming.com/wp-content/uploads/2019/10/spaceship1Asset-1-496x300.png" height="307"></div>
 
 <blockquote><b>WARNING:</b> Choose one dimension per </blockquote>
 

@@ -796,15 +796,6 @@ npm install @clone-multiverse/c-137
 # 🛸 How to drive? 🛸
 <div align="center"><a href="https://github.com/IsaacAlves7/google-clone"><img src="https://blueprintgaming.com/wp-content/uploads/2019/10/spaceship1Asset-1-496x300.png" height="377"></a></div><br \>
 
-# 🌕 🌕
-<div align="center"><a href="https://github.com/IsaacAlves7/google-clone"><img src="https://user-images.githubusercontent.com/61624336/132675774-73fa91b2-c5a4-43cb-b359-a2d3af10f0d2.png" height="307"></a></div><br \>
-
-# 🌑 Beware with the dark-side 🌑
-<div align="center"><a href="https://github.com/IsaacAlves7/google-clone"><img src="https://user-images.githubusercontent.com/61624336/132949781-d0d59432-3dcb-44c3-9cef-356d005b7240.png" height="307"></a></div><br \>
-
-# 🪐 🪐
-<div align="center"><a href="https://github.com/IsaacAlves7/google-clone"><img src="https://user-images.githubusercontent.com/61624336/132676080-ec6c1a78-b9fb-451a-92ba-096470e8644e.png" height="257"></a></div><br \>
-
 # 🌌 Inspired by 🌌
 [![Google](https://img.shields.io/badge/-Google‍‍Search‍‍Page-000?style=for-the-badge&logo=Google&logoColor=ffffff)](https://www.google.com/)
 [![YouTube](https://img.shields.io/badge/-Online‍‍Tutorials-000?style=for-the-badge&logo=YouTube&logoColor=ffffff)](https://www.youtube.com/watch?v=IOziOnp53jg&list=RDCMUCbwXnUipZsLfUckBPsC7Jog&start_radio=1&rv=IOziOnp53jg&t=7)

@@ -791,7 +791,7 @@ npm install @clone-multiverse/c-137
 </table>
 
 # 🚀 How to drive? 🚀
-<div align="center"><a href="https://github.com/IsaacAlves7/google-clone"><img src="https://blueprintgaming.com/wp-content/uploads/2019/10/spaceship1Asset-1-496x300.png" height="177"></a></div><br \>
+<div align="center"><a href="https://github.com/IsaacAlves7/google-clone"><img src="https://blueprintgaming.com/wp-content/uploads/2019/10/spaceship1Asset-1-496x300.png" height="377"></a></div><br \>
 
 # 🌕 🌕
 <div align="center"><a href="https://github.com/IsaacAlves7/google-clone"><img src="https://user-images.githubusercontent.com/61624336/132675774-73fa91b2-c5a4-43cb-b359-a2d3af10f0d2.png" height="307"></a></div><br \>

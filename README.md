@@ -3,7 +3,7 @@
 
 <div align="center"><a href="https://github.com/IsaacAlves7/google-clone"><img src="https://user-images.githubusercontent.com/61624336/135576437-f191e82d-a65b-4f5a-b7f8-6741d83a3e9f.png"></a></div>
 
-<div align="center"><a href="https://github.com/IsaacAlves7/google-clone"><img src="https://user-images.githubusercontent.com/61624336/132976982-5ba16744-e161-492f-9e9f-eb873cd5c41e.png"></a></div>
+<div align="center"><img src="https://user-images.githubusercontent.com/61624336/135540008-784d3a25-53e6-4c59-b8cc-e7328ee4dcc9.jpg" height="407"></div>
 
 <blockquote><b>WARNING:</b> Choose one dimension per </blockquote>
 
@@ -797,8 +797,8 @@ npm install @clone-multiverse/c-137
 <div align="center"><a href="https://github.com/IsaacAlves7/google-clone"><img src="https://blueprintgaming.com/wp-content/uploads/2019/10/spaceship1Asset-1-496x300.png" height="377"></a></div><br \>
 
 # 🌌 Credits 🌌
-<div align="center"><img src="https://user-images.githubusercontent.com/61624336/135540008-784d3a25-53e6-4c59-b8cc-e7328ee4dcc9.jpg" height="407"></div>
-
+<div align="center"><a href="https://github.com/IsaacAlves7/google-clone"><img src="https://user-images.githubusercontent.com/61624336/132976982-5ba16744-e161-492f-9e9f-eb873cd5c41e.png"></a></div>
+      
 [![Google](https://img.shields.io/badge/-Google‍‍Search‍‍Page-000?style=for-the-badge&logo=Google&logoColor=ffffff)](https://www.google.com/)
 [![YouTube](https://img.shields.io/badge/-Online‍‍Tutorials-000?style=for-the-badge&logo=YouTube&logoColor=ffffff)](https://www.youtube.com/watch?v=IOziOnp53jg&list=RDCMUCbwXnUipZsLfUckBPsC7Jog&start_radio=1&rv=IOziOnp53jg&t=7)
 [![YouTube](https://img.shields.io/badge/-Kirankumar‍‍Gonti-000?style=for-the-badge&logo=YouTube&logoColor=ffffff)](https://youtu.be/4vXrlhON6Zw)

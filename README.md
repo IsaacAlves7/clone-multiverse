@@ -15,7 +15,7 @@
 Este multiverso é composto de projetos que criei ao longo da carreira, cujo você pode testa-los, recriá-los, brincar com eles, e estudar também!
 
 ## Installation
-<div align="center"><img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/10eb87cb-ecf2-4988-b86d-ab932c1dd9de/dcaq88r-98a0adf4-dc60-4cd2-ba84-d58ca59480ac.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzEwZWI4N2NiLWVjZjItNDk4OC1iODZkLWFiOTMyYzFkZDlkZVwvZGNhcTg4ci05OGEwYWRmNC1kYzYwLTRjZDItYmE4NC1kNThjYTU5NDgwYWMucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.HKeZGaDlqUiqq5Ma9U7OGioW95lzgyVPaIib-8Y60uI" height="177"><img src="https://c137me.com/wp-content/uploads/2020/03/cropped-C-137-Me-LogoDarker-1-e1584000494984.png" height="177"></div><br \>
+<div align="center"><img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/10eb87cb-ecf2-4988-b86d-ab932c1dd9de/dcaq88r-98a0adf4-dc60-4cd2-ba84-d58ca59480ac.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzEwZWI4N2NiLWVjZjItNDk4OC1iODZkLWFiOTMyYzFkZDlkZVwvZGNhcTg4ci05OGEwYWRmNC1kYzYwLTRjZDItYmE4NC1kNThjYTU5NDgwYWMucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.HKeZGaDlqUiqq5Ma9U7OGioW95lzgyVPaIib-8Y60uI" height="177"></div><br \>
 
 ```npm
 npm install @clone-multiverse/c-137
@@ -24,7 +24,7 @@ npm install @clone-multiverse/c-137
 <hr>
 
 # 🌌 IsaacAlves7: Open-Source Clone Projects Table 🔫
-
+<div align="center"><a href="https://github.com/IsaacAlves7/google-clone"><img src="https://www.pngkey.com/png/full/24-246033_show-me-what-you-got-sticker-video-game.png" height="277"></a></div><br \>
 <table>
   <tr>
     <td><b>Project</b></td>

@@ -797,8 +797,10 @@ npm install @clone-multiverse/c-137
 <div align="center"><a href="https://github.com/IsaacAlves7/google-clone"><img src="https://blueprintgaming.com/wp-content/uploads/2019/10/spaceship1Asset-1-496x300.png" height="377"></a></div><br \>
 
 # 📦 Dockerization 📦
-<div align="center"><a href="https://github.com/IsaacAlves7/google-clone"><img src="https://upload.wikimedia.org/wikipedia/en/1/1d/Mr._Meeseeks.png" height="277"><img src="https://pocketmortys.net/images/assets/ItemMrMeeseekFront.png" height="277"></a></div><br \>
+<div align="center"><a href="https://github.com/IsaacAlves7/google-clone"><img src="https://pocketmortys.net/images/assets/ItemMrMeeseekFront.png" height="277"></a></div><br \>
 
+<div align="center"><img src="https://upload.wikimedia.org/wikipedia/en/1/1d/Mr._Meeseeks.png" height="277"></div>
+      
 # 🌌 Credits 🌌
 <div align="center"><a href="https://github.com/IsaacAlves7/google-clone"><img src="https://user-images.githubusercontent.com/61624336/132976982-5ba16744-e161-492f-9e9f-eb873cd5c41e.png"></a></div>
       

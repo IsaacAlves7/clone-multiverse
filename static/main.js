@@ -70,7 +70,43 @@ function winnerCheck() {
     
     if (sequenceCheck(square1, square4, square7)) {
         changeSquareColor(square1, square4, square7);
-        changeWinner(square4);
+        changeWinner(square1);
+        return;
+    }
+    
+    if (sequenceCheck(square2, square5, square8)) {
+        changeSquareColor(square2, square5, square8);
+        changeWinner(square2);
+        return;
+    }
+    
+    if (sequenceCheck(square3, square6, square9)) {
+        changeSquareColor(square3, square6, square9);
+        changeWinner(square3);
+        return;
+    }
+    
+    if (sequenceCheck(square1, square5, square9)) {
+        changeSquareColor(square1, square5, square9);
+        changeWinner(square1);
+        return;
+    }
+    
+    if (sequenceCheck(square1, square5, square7)) {
+        changeSquareColor(square1, square5, square7);
+        changeWinner(square3);
+        return;
+    }
+    
+    if (sequenceCheck(square1, square5, square9)) {
+        changeSquareColor(square1, square5, square9);
+        changeWinner(square1);
+        return;
+    }
+    
+    if (sequenceCheck(square3, square5, square7)) {
+        changeSquareColor(square3, square5, square7);
+        changeWinner(square3);
         return;
     }
 }

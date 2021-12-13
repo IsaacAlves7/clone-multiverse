@@ -4,11 +4,13 @@
     box-sizing: border-box;
 } */
 
-@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&family=Nunito&family=Varela+Round&display=swap');
 
 body{
     text-align: center;
     font-family: 'Montserrat', sans-serif;
+    font-family: 'Nunito', sans-serif;
+    font-family: 'Varela Round', sans-serif;
 }
 
 .square{
@@ -30,12 +32,16 @@ body{
 
 button{
     margin-top: 18px;
-    width: 100px; height: 30px;
-    background: #eee;
+    background: transparent;
+    border: 2px solid black;
+    letter-spacing: 0.7rem;
+    padding: 20px;
     cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    outline: none;
+    font-size: 17px;
 }
-
-
 
 @media screen and (max-width: 444px){ /*cellphone*/
     .square{

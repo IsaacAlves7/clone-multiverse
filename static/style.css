@@ -1,0 +1,56 @@
+/* *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+} */
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
+body{
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.square{
+    text-align: center;
+    width: 50px;
+    background-color: #eee;
+    display: inline-block;
+    padding: 40px;
+    font-size: 60px;
+    margin: 5px;
+    cursor: pointer;
+    color: #eee;
+}
+
+.player, .winner{
+    font-size: 30px;
+    margin-top: 10px;
+}
+
+button{
+    margin-top: 18px;
+    width: 100px; height: 30px;
+    background: #eee;
+    cursor: pointer;
+}
+
+
+
+@media screen and (max-width: 444px){ /*cellphone*/
+    .square{
+        width: 20px;
+    }
+}
+
+@media screen and (max-width: 399px){ /*galaxy fold*/
+    .square{
+        width: 7px;
+    }
+}
+
+@media screen and (max-width: 359px){ /*galaxy fold*/
+    .square{
+        width: 2px;
+    }
+}

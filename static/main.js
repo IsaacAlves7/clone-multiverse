@@ -7,6 +7,11 @@ changePlayer('X');
 
 function chooseSquare(id) {
     // console.log(id);
+
+    if (winner !== null){
+        return;
+    }
+
     var square = document.getElementById(id);
     if (square.innerHTML !== '-'){ // block the new value in the same square
         return;
@@ -86,14 +91,14 @@ function winnerCheck() {
         return;
     }
     
-    if (sequenceCheck(square1, square5, square9)) {
-        changeSquareColor(square1, square5, square9);
-        changeWinner(square1);
+    if (sequenceCheck(square2, square5, square8)) {
+        changeSquareColor(square2, square5, square8);
+        changeWinner(square2);
         return;
     }
     
-    if (sequenceCheck(square1, square5, square7)) {
-        changeSquareColor(square1, square5, square7);
+    if (sequenceCheck(square3, square6, square9)) {
+        changeSquareColor(square3, square6, square9);
         changeWinner(square3);
         return;
     }
@@ -109,6 +114,7 @@ function winnerCheck() {
         changeWinner(square3);
         return;
     }
+
 }
 
 function changeSquareColor(square1, square2, square3) {
@@ -134,4 +140,18 @@ function sequenceCheck(square1, square2, square3){
     }
 
     return eigual;
+}
+
+function restart(){
+    winner = null;
+    selectedWinner.innerHTML = '';
+
+    for (var i = 1; i <= 9; i++) {
+        var square = document.getElementById(i);
+        square.style.background = '#eee';
+        square.style.color = '#eee';
+        square.innerHTML = '-';
+    }
+
+    changePlayer('X');
 }

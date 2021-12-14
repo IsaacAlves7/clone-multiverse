@@ -25,6 +25,11 @@ body{
     color: #eee;
 }
 
+.square:hover{
+    filter: opacity(50%);
+    -webkit-filter: opacity(50%);
+}
+
 .player, .winner{
     font-size: 30px;
     margin-top: 10px;

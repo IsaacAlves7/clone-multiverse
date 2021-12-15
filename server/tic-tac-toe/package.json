@@ -13,9 +13,9 @@
     "http-errors": "~1.6.3",
     "jade": "~1.11.0",
     "morgan": "~1.9.1",
-    "socket.io": "^4.4.0",
     "reflect-metadata": "^0.1.13",
-    "socket-controllers": "^0.0.5"
+    "socket-controllers": "^0.0.5",
+    "socket.io": "^4.4.0"
   },
   "devDependencies": {
     "@types/node": "^16.0.0",

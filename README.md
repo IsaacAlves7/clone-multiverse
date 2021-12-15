@@ -47,6 +47,41 @@ npm install
 ```
 DEBUG=server:* npm start
 ```
+## Dependencies on package.json
 
-# Dependencies on package.json
-
+```json
+{
+  "name": "server",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "nodemon"
+  },
+  "dependencies": {
+    "cookie-parser": "~1.4.4",
+    "cors": "^2.8.5",
+    "debug": "~2.6.9",
+    "express": "~4.16.1",
+    "http-errors": "~1.6.3",
+    "jade": "~1.11.0",
+    "morgan": "~1.9.1",
+    "reflect-metadata": "^0.1.13",
+    "socket-controllers": "^0.0.5",
+    "socket.io": "^4.1.2"
+  },
+  "devDependencies": {
+    "@types/node": "^16.0.0",
+    "nodemon": "^2.0.9",
+    "ts-node": "^10.0.0",
+    "typescript": "^4.3.5"
+  }
+}
+```
+# Add ts-node + typescript + nodemon
+```
+yarn add -D ts-node typescript nodemon
+```
+# Add Socket.io
+```
+yarn add socket.io
+```

@@ -50,18 +50,27 @@ button{
 
 @media screen and (max-width: 444px){ /*cellphone*/
     .square{
-        width: 20px;
+        width: 27px;
+        font-size: 27px;
+        padding: 30px;
+        text-align: center;
     }
 }
 
 @media screen and (max-width: 399px){ /*galaxy fold*/
     .square{
-        width: 7px;
+        width: 27px;
+        font-size: 27px;
+        padding: 30px;
+        text-align: center;
     }
 }
 
 @media screen and (max-width: 359px){ /*galaxy fold*/
     .square{
-        width: 2px;
+        width: 12px;
+        font-size: 17px;
+        padding: 20px;
+        text-align: center;
     }
 }

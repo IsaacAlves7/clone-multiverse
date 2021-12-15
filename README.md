@@ -1,6 +1,5 @@
 # Tic Tac Toe Game
 > Project of Tic Tac Toe game with static and server Application.
-
 # (static) Multiplayer single-page - one browser
 This project contains the HTML5, CSS3 and JavaScript.
 # (server) Multiplayer Online Real-Time - two browsers
@@ -77,11 +76,11 @@ DEBUG=server:* npm start
   }
 }
 ```
-# 3. Add ts-node + typescript + nodemon
+## 3. Add ts-node + typescript + nodemon
 ```
 yarn add -D ts-node typescript nodemon
 ```
-# 4. Add Socket.io
+## 4. Add Socket.io
 ```
 yarn add socket.io
 ```
@@ -89,7 +88,15 @@ yarn add socket.io
 ```
 yarn add socket-controllers reflect-metadata
 ```
-# 6. Yarn Start
+## 6. Yarn Start or NPM start
 ```
 yarn start
+```
+or
+```
+npm start
+```
+## 7. Create React App
+```
+npx create-react-app --template typescript tic-tac-toe
 ```

@@ -4,8 +4,8 @@
 # (static) Multiplayer single-page - one browser
 This project contains the HTML5, CSS3 and JavaScript.
 # (server) Multiplayer Online Real-Time - two browsers
-This project contains the Node.js, React.js, Express, Socket.io, TypeScript, Cors, Nodemon,  
-## run command on clone-multiverse 
+This project contains the Node.js, React.js, Express, Socket.io, TypeScript, Cors, Nodemon, Socket-controllers, Reflect-Metadata.
+## 1. run command on clone-multiverse 
 ```
 npx express-generator server
 ```
@@ -47,7 +47,7 @@ npm install
 ```
 DEBUG=server:* npm start
 ```
-## Dependencies on package.json
+## 2. Dependencies on package.json
 
 ```json
 {
@@ -77,11 +77,19 @@ DEBUG=server:* npm start
   }
 }
 ```
-# Add ts-node + typescript + nodemon
+# 3. Add ts-node + typescript + nodemon
 ```
 yarn add -D ts-node typescript nodemon
 ```
-# Add Socket.io
+# 4. Add Socket.io
 ```
 yarn add socket.io
+```
+## 5. Add Socket-controllers
+```
+yarn add socket-controllers reflect-metadata
+```
+# 6. Yarn Start
+```
+yarn start
 ```

@@ -96,7 +96,96 @@ or
 ```
 npm start
 ```
-## 7. Create React App
+## 7. Create React App on Clone Multiverse folder
 ```
-npx create-react-app --template typescript tic-tac-toe
+npx create-react-app --template typescript app-server
 ```
+
+### Results
+<pre>
+npx: installed 67 in 5.979s
+
+Creating a new React app in C:\Users\isaac\OneDrive\Área de Trabalho\clone-multiverse\app-server.
+
+Installing packages. This might take a couple of minutes.
+Installing react, react-dom, and react-scripts with cra-template-typescript...
+
+
+> core-js@3.20.0 postinstall C:\Users\isaac\OneDrive\Área de Trabalho\clone-multiverse\app-server\node_modules\core-js
+> node -e "try{require('./postinstall')}catch(e){}"
+
+
+> core-js-pure@3.20.0 postinstall C:\Users\isaac\OneDrive\Área de Trabalho\clone-multiverse\app-server\node_modules\core-js-pure
+> node -e "try{require('./postinstall')}catch(e){}"
+
++ react-scripts@5.0.0
++ react@17.0.2
++ react-dom@17.0.2
++ cra-template-typescript@1.1.3
+added 1373 packages from 589 contributors in 104.035s
+
+162 packages are looking for funding
+  run `npm fund` for details
+
+
+Installing template dependencies using npm...
+npm WARN @apideck/better-ajv-errors@0.3.1 requires a peer of ajv@>=8 but none is installed. You must install peer dependencies yourself.
+npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@2.3.2 (node_modules\fsevents):
+npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@2.3.2: wanted {"os":"darwin","arch":"any"} (current: {"os":"win32","arch":"x64"})
+
++ @types/node@16.11.13
++ @types/react-dom@17.0.11
++ web-vitals@2.1.2
++ @types/jest@27.0.3
++ @types/react@17.0.37
++ @testing-library/jest-dom@5.16.1
++ typescript@4.5.4
++ @testing-library/user-event@13.5.0
++ @testing-library/react@12.1.2
+added 39 packages from 109 contributors and updated 1 package in 8.769s
+
+162 packages are looking for funding
+  run `npm fund` for details
+
+
+We detected TypeScript in your project (src\App.test.tsx) and created a tsconfig.json file for you.
+
+Your tsconfig.json has been populated with default values.
+
+Removing template package using npm...
+
+npm WARN @apideck/better-ajv-errors@0.3.1 requires a peer of ajv@>=8 but none is installed. You must install peer dependencies yourself.
+npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@2.3.2 (node_modules\fsevents):
+npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@2.3.2: wanted {"os":"darwin","arch":"any"} (current: {"os":"win32","arch":"x64"})
+
+removed 1 package and audited 1414 packages in 4.986s
+
+162 packages are looking for funding
+  run `npm fund` for details
+
+found 1 moderate severity vulnerability
+  run `npm audit fix` to fix them, or `npm audit` for details
+
+Success! Created app-server at C:\Users\isaac\OneDrive\Área de Trabalho\clone-multiverse\app-server
+Inside that directory, you can run several commands:
+
+  npm start
+    Starts the development server.
+
+  npm run build
+    Bundles the app into static files for production.
+
+  npm test
+    Starts the test runner.
+
+  npm run eject
+    Removes this tool and copies build dependencies, configuration files
+    and scripts into the app directory. If you do this, you can’t go back!
+
+We suggest that you begin by typing:
+
+  cd app-server
+  npm start
+
+Happy hacking!
+</pre>

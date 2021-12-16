@@ -9,6 +9,9 @@ const AppContainer = styled.div`
   flex-direction: column;
   align-items: center;
   padding: 1em;
+  font-family: 'Montserrat', sans-serif;
+  font-family: 'Nunito', sans-serif;
+  font-family: 'Varela Round', sans-serif;
 `;
 
 function App() {

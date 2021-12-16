@@ -15,9 +15,18 @@ const AppContainer = styled.div`
 `;
 
 function App() {
+
+  const connect = () => {
+
+  }
+
+  useEffect(() => {
+
+  }, [])
+
   return (
     <AppContainer>
-      <h1>Tic Tac Toe Game</h1>
+      <h1>Tic-Tac-Toe Game</h1>
     </AppContainer>
   );
 }

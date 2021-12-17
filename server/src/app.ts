@@ -10,9 +10,9 @@ var indexRouter = require("./routes/index");
 
 var app = express();
 
-// view engine setup
+// view engine setup (In case, it's not necessary, because your front-end application is the React App)
 // app.set('views', path.join(__dirname, 'views'));
-// app.set('view engine', 'jade');
+// app.set('view engine', 'jade' || 'html');
 
 app.use(logger("dev"));
 app.use(express.json());
@@ -36,7 +36,10 @@ app.use(function (err, req, res, next) {
 
   // render the error page
   res.status(err.status || 500);
-  res.render("error");
+  res.json({
+    message: err.message,
+    error: err
+  });
 });
 
 export default app;

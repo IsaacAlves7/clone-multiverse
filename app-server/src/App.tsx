@@ -1,6 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import styled from "styled-components";
 import './App.css';
+import { io } from "socket.io-client";
 
 const AppContainer = styled.div`
   width: 100%;
@@ -12,21 +13,38 @@ const AppContainer = styled.div`
   font-family: 'Montserrat', sans-serif;
   font-family: 'Nunito', sans-serif;
   font-family: 'Varela Round', sans-serif;
+  overflow: none;
+`;
+
+const MainContainer = styled.div`
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+`;
+
+const WelcomeText = styled.h1`
+  margin: 0;
+  color: #000;
 `;
 
 function App() {
 
-  const connect = () => {
-
-  }
+  const connectSocket = async () => {
+    const socket = await socketService.connect("http://localhost:9000").catch((err) => {
+      console.log("Error: ", err);
+    });
+  };
 
   useEffect(() => {
-
-  }, [])
+    connectSocket();
+  }, []);
 
   return (
     <AppContainer>
-      <h1>Tic-Tac-Toe Game</h1>
+      <WelcomeText>Tic-Tac-Toe Game</WelcomeText>
+      <MainContainer>Hey</MainContainer>
     </AppContainer>
   );
 }

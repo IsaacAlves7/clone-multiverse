@@ -16,12 +16,6 @@ function cobraStop(){
     cobra.src='img.svg';
 }
 
-function modalPopUp(){
-}
-
-function modalVideoPopUp(){
-}
-
 function punch(){
     const punchSound = new Audio();
     punchSound.src = "/assets/public/sound/punch-sound.mp3";

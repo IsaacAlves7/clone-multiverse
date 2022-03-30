@@ -1,6 +1,6 @@
 <div align="center"><a href="https://github.com/IsaacAlves7/google-clone"><img src="https://user-images.githubusercontent.com/61624336/135576437-f191e82d-a65b-4f5a-b7f8-6741d83a3e9f.png"></a></div>
 
-# :octocat: Clone Multiverse (powered by IsaacAlves7) 🌌
+# :octocat: Clone Multiverse (powered by IsaacAlves7)
 <blockquote>I created a repository of clone projects! It's a Clone Multiverse, Dev! Multiverse of Madness! No Way Home!</blockquote>
 
 <div align="center"><img src="https://user-images.githubusercontent.com/61624336/135540008-784d3a25-53e6-4c59-b8cc-e7328ee4dcc9.jpg" height="407"></div>
@@ -9,7 +9,7 @@
 
 <hr>
 
-# 🌌 How to start the Clone Multiverse? 🌌
+# 🌌 How to start the Clone Multiverse?
 <div align="center"><a href="https://github.com/IsaacAlves7/google-clone"><img src="https://user-images.githubusercontent.com/61624336/132973848-5df55ef8-cb24-4504-ad3f-da032797a0d4.jpg" height="307"><img src="https://static.wixstatic.com/media/227c1c_3b1727183c2e4a3caeec58e7dba38937~mv2.gif" height="307"></a></div><br \>
 
 Este multiverso é composto de projetos que criei ao longo da carreira, cujo você pode testa-los, recriá-los, brincar com eles, e estudar também!
@@ -19,7 +19,7 @@ Este multiverso é composto de projetos que criei ao longo da carreira, cujo voc
 
 <hr>
 
-# 🌌 IsaacAlves7: Open-Source Clone Projects Table 🔫
+# 🌌 IsaacAlves7: Open-Source Clone Projects Table
 <div align="center"><a href="https://github.com/IsaacAlves7/google-clone"><img src="https://www.pngkey.com/png/full/24-246033_show-me-what-you-got-sticker-video-game.png" height="277"></a></div><br \>
 <table>
   <tr>
@@ -789,15 +789,15 @@ Este multiverso é composto de projetos que criei ao longo da carreira, cujo voc
   </tr>
 </table>
 
-# 🛸 How to drive? 🛸
+# 🛸 How to drive?
 <div align="center"><a href="https://github.com/IsaacAlves7/google-clone"><img src="https://blueprintgaming.com/wp-content/uploads/2019/10/spaceship1Asset-1-496x300.png" height="377"></a></div><br \>
 
-# 📦 Dockerization 📦
+# 📦 Dockerization
 <div align="center"><a href="https://github.com/IsaacAlves7/google-clone"><img src="https://pocketmortys.net/images/assets/ItemMrMeeseekFront.png" height="277"></a></div><br \>
 
 <div align="center"><img src="https://upload.wikimedia.org/wikipedia/en/1/1d/Mr._Meeseeks.png" height="277"></div>
       
-# 🌌 Credits 🌌
+# 🌌 Credits
 <div align="center"><a href="https://github.com/IsaacAlves7/google-clone"><img src="https://user-images.githubusercontent.com/61624336/132976982-5ba16744-e161-492f-9e9f-eb873cd5c41e.png"></a></div>
       
 [![Google](https://img.shields.io/badge/-Google‍‍Search‍‍Page-000?style=for-the-badge&logo=Google&logoColor=ffffff)](https://www.google.com/)

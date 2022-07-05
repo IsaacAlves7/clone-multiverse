@@ -19,7 +19,7 @@ Este multiverso é composto de projetos que criei ao longo da carreira, cujo voc
 <div align="center"><a href="https://github.com/IsaacAlves7/google-clone"><img src="https://www.pngkey.com/png/full/24-246033_show-me-what-you-got-sticker-video-game.png" height="277"></a></div><br \>
 
 # 🛸 How to drive?
-<div align="center"><a href="https://github.com/IsaacAlves7/google-clone"><img src="https://blueprintgaming.com/wp-content/uploads/2019/10/spaceship1Asset-1-496x300.png" height="377"></a></div><br \>
+<div align="center"><a href="https://github.com/IsaacAlves7/google-clone"><img src="https://blueprintgaming.com/wp-content/uploads/2019/10/spaceship1Asset-1-496x300.png" height="177"></a></div><br \>
 
 # 📦 Dockerization
 <div align="center"><a href="https://github.com/IsaacAlves7/google-clone"><img src="https://pocketmortys.net/images/assets/ItemMrMeeseekFront.png" height="277"></a></div><br \>

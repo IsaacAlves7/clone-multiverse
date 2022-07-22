@@ -1,4 +1,4 @@
-# 👽 Clone Project: <img src="https://seeklogo.com/images/C/cobra-kai-logo-01BAA48FFD-seeklogo.com.png" height="21">
+# 🌌 Clone Multiverse Project: <img src="https://seeklogo.com/images/C/cobra-kai-logo-01BAA48FFD-seeklogo.com.png" height="21">
 It's a repository of Cobra Kai Portifolio website clone using HTML5, CSS3 and JS. 
 
 ![Cobra Kai UI](https://user-images.githubusercontent.com/61624336/105786305-8d2aff00-5f5b-11eb-876f-80ead5b514f7.jpg)

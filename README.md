@@ -16,13 +16,12 @@ Com base nessa citação da fala do Doutor Estranho, o que eu posso afirmar é q
 - Lógica de programação
 - Estrutura de dados
 - Banco de dados
+- Sistemas distribuídos
 - Computação em nuvem
 - Paradigmas de linguagens de programação
 - Arquiteturas de Software e Sistemas
 
-The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from "de Finibus Bonorum et Malorum" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.
 
-Este multiverso é composto de projetos que criei ao longo da carreira, cujo você pode testa-los, recriá-los, brincar com eles, e estudar também!
 
 ## Installation
 <div align="center"><img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/10eb87cb-ecf2-4988-b86d-ab932c1dd9de/dcaq88r-98a0adf4-dc60-4cd2-ba84-d58ca59480ac.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzEwZWI4N2NiLWVjZjItNDk4OC1iODZkLWFiOTMyYzFkZDlkZVwvZGNhcTg4ci05OGEwYWRmNC1kYzYwLTRjZDItYmE4NC1kNThjYTU5NDgwYWMucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.HKeZGaDlqUiqq5Ma9U7OGioW95lzgyVPaIib-8Y60uI" height="177"><img src="https://user-images.githubusercontent.com/61624336/180464662-47919ce3-0a43-4d61-a564-eb70d6feacfe.png" height="177"></div><br \>

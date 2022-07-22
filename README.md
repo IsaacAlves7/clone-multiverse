@@ -7,7 +7,7 @@
 
 O multiverso dos clones é na verdade um desafio com cronogramas e metas para o desenvolvimento de softwares planejados e estruturados. Fazer esses desafios seguindo o cronograma proposto te torna um desenvolvedor de qualidade, pois além de você conhecer as tecnologias e stacks de cada projeto real, você terá mais vivência nos seus estudos e um preparo melhor para o mercado de trabalho na área de desenvolvimento, possuindo assim: criatividade, agilidade, persistência, conhecimento, experiência e capacidade.
 
-> "O multiverso é um conceito amplo e é assustador quando conhecemos pouco sobre ele." - Dr.Stephen Strange (Doutor Estranho) - Homem-Aranha: Sem volta para casa (2021) 
+> "O multiverso é um conceito amplo e é assustador quando conhecemos pouco sobre ele." - Doutor Estranho (Homem-Aranha: Sem volta para casa [2021]) 
 
 <img src="https://user-images.githubusercontent.com/61624336/132973848-5df55ef8-cb24-4504-ad3f-da032797a0d4.jpg" height="177" align="right">
 
@@ -20,8 +20,6 @@ Com base nessa citação da fala do Doutor Estranho, o que eu posso afirmar é q
 - Computação em nuvem
 - Paradigmas de linguagens de programação
 - Arquiteturas de Software e Sistemas
-
-
 
 ## Installation
 <div align="center"><img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/10eb87cb-ecf2-4988-b86d-ab932c1dd9de/dcaq88r-98a0adf4-dc60-4cd2-ba84-d58ca59480ac.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzEwZWI4N2NiLWVjZjItNDk4OC1iODZkLWFiOTMyYzFkZDlkZVwvZGNhcTg4ci05OGEwYWRmNC1kYzYwLTRjZDItYmE4NC1kNThjYTU5NDgwYWMucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.HKeZGaDlqUiqq5Ma9U7OGioW95lzgyVPaIib-8Y60uI" height="177"><img src="https://user-images.githubusercontent.com/61624336/180464662-47919ce3-0a43-4d61-a564-eb70d6feacfe.png" height="177"></div><br \>

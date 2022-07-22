@@ -9,17 +9,23 @@ O multiverso dos clones é na verdade um desafio com cronogramas e metas para o 
 
 > "O multiverso é um conceito amplo e é assustador quando conhecemos pouco sobre ele." - Doutor Estranho (Homem-Aranha: Sem volta para casa [2021]) 
 
-<img src="https://user-images.githubusercontent.com/61624336/132973848-5df55ef8-cb24-4504-ad3f-da032797a0d4.jpg" height="177" align="right">
-
 Com base nessa citação da fala do Doutor Estranho, o que eu posso afirmar é que o Multiverso dos Clones não é para iniciantes em programação! É necessário você possuir bons domínios em:
 
-- Lógica de programação
+<img src="https://user-images.githubusercontent.com/61624336/132973848-5df55ef8-cb24-4504-ad3f-da032797a0d4.jpg" height="177" align="right">
+
+- Lógica de programação (com a linguagem de programação de sua preferência)
+- Desenvolvimento Web
+- Desenvolvimento Mobile
 - Estrutura de dados
 - Banco de dados
 - Sistemas distribuídos
 - Computação em nuvem
 - Paradigmas de linguagens de programação
 - Arquiteturas de Software e Sistemas
+- DevOps
+- Metodologias Ágeis
+- Qualidade de Software
+- Redes de Computadores
 
 ## Installation
 <div align="center"><img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/10eb87cb-ecf2-4988-b86d-ab932c1dd9de/dcaq88r-98a0adf4-dc60-4cd2-ba84-d58ca59480ac.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzEwZWI4N2NiLWVjZjItNDk4OC1iODZkLWFiOTMyYzFkZDlkZVwvZGNhcTg4ci05OGEwYWRmNC1kYzYwLTRjZDItYmE4NC1kNThjYTU5NDgwYWMucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.HKeZGaDlqUiqq5Ma9U7OGioW95lzgyVPaIib-8Y60uI" height="177"><img src="https://user-images.githubusercontent.com/61624336/180464662-47919ce3-0a43-4d61-a564-eb70d6feacfe.png" height="177"></div><br \>

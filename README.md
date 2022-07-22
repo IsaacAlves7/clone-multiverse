@@ -29,7 +29,7 @@ Este multiverso é composto de projetos que criei ao longo da carreira, cujo voc
 
 Você pode clonar os projetos e tentar replicá-los na sua máquina local, entendendo a sua 
 
-# 🌌 Clone Multiverse: Challenge of Open-Source Clone Projects
+# 🌌 Clone Multiverse: Challenge of Projects
 <div align="center"><a href="https://github.com/IsaacAlves7/google-clone"><img src="https://www.pngkey.com/png/full/24-246033_show-me-what-you-got-sticker-video-game.png" height="277"></a></div><br \>
 
 # 🛸 DevOps

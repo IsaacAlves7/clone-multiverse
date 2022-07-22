@@ -30,7 +30,7 @@ Este multiverso é composto de projetos que criei ao longo da carreira, cujo voc
 Você pode clonar os projetos e tentar replicá-los na sua máquina local, entendendo a sua 
 
 # 🌌 Clone Multiverse: Challenge of Projects
-<div align="center"><a href="https://github.com/IsaacAlves7/google-clone"><img src="https://www.pngkey.com/png/full/24-246033_show-me-what-you-got-sticker-video-game.png" height="277"></a></div><br \>
+<div align="center"><a href="https://github.com/IsaacAlves7/google-clone"><img src="https://www.pngkey.com/png/full/24-246033_show-me-what-you-got-sticker-video-game.png" height="177"></a></div><br \>
 
 # 🛸 DevOps
 <img src="https://blueprintgaming.com/wp-content/uploads/2019/10/spaceship1Asset-1-496x300.png" height="177" align="right">

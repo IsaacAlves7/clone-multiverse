@@ -1,6 +1,5 @@
 <div align="center"><a href="https://github.com/IsaacAlves7/google-clone"><img src="https://user-images.githubusercontent.com/61624336/135576437-f191e82d-a65b-4f5a-b7f8-6741d83a3e9f.png"></a></div>
 
-# :octocat: Clone Multiverse (powered by IsaacAlves7)
 <blockquote>I created a repository of clone projects! It's a Clone Multiverse, Dev! Multiverse of Madness! No Way Home!</blockquote>
 
 <div align="center"><img src="https://user-images.githubusercontent.com/61624336/135540008-784d3a25-53e6-4c59-b8cc-e7328ee4dcc9.jpg" height="407"></div>

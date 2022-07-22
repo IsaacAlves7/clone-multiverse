@@ -1,9 +1,7 @@
-# 🌌 Clone Multiverse Project: <img src="https://seeklogo.com/images/C/cobra-kai-logo-01BAA48FFD-seeklogo.com.png" height="21">
-It's a repository of Cobra Kai Portifolio website clone using HTML5, CSS3 and JS. 
-
 ![Cobra Kai UI](https://user-images.githubusercontent.com/61624336/105786305-8d2aff00-5f5b-11eb-876f-80ead5b514f7.jpg)
 
-# Inspired by
+# 🌌 Clone Multiverse Project: <a href="https://youtu.be/giVXEj-R0h0?list=PLxm--8AYWEDelTYpYi2zulMEw-0T-M5IH">Cobra Kai Website</a>
+
 [![NetFLIX](https://img.shields.io/badge/-Netflix‍‍‍Series-000000?style=for-the-badge&logo=NetFlix&logoColor=E50914)](https://www.netflix.com/br/title/81002370)
 [![YouTube](https://img.shields.io/badge/-YouTube-000?style=for-the-badge&logo=YouTube&logoColor=E50914)](https://www.youtube.com/watch?v=9z1nTwP2n0w)
 [![YouTube](https://img.shields.io/badge/-YouTube-000?style=for-the-badge&logo=YouTube&logoColor=E50914)](https://www.youtube.com/watch?v=9z1nTwP2n0w)

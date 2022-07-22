@@ -6,4 +6,4 @@
 
 [![NetFLIX](https://img.shields.io/badge/-Netflix‍‍‍Series-000000?style=for-the-badge&logo=NetFlix&logoColor=E50914)](https://www.netflix.com/br/title/81002370)
 [![YouTube](https://img.shields.io/badge/-YouTube-000?style=for-the-badge&logo=YouTube&logoColor=E50914)](https://www.youtube.com/watch?v=9z1nTwP2n0w)
-[![YouTube](https://img.shields.io/badge/-YouTube-000?style=for-the-badge&logo=YouTube&logoColor=E50914)](https://www.youtube.com/watch?v=9z1nTwP2n0w)
+[![YouTube](https://img.shields.io/badge/-YouTube-000?style=for-the-badge&logo=YouTube&logoColor=E50914)]()

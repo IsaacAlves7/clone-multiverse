@@ -24,6 +24,8 @@ Com base nessa citação da fala do Doutor Estranho, o que eu posso afirmar é q
 - Metodologias Ágeis
 - Qualidade de Software
 - Redes de Computadores
+- Debugging
+- Segurança de Aplicações
 
 Somente com base nesses conhecimentos e experiências que você poderá pegar um projeto real e conseguir fazer as tarefas propostas dentro do prazo.
 

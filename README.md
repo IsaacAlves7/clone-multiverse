@@ -23,7 +23,7 @@ Este multiverso é composto de projetos que criei ao longo da carreira, cujo voc
 
 <hr>
 
-# 🌌 IsaacAlves7: Open-Source Clone Projects
+# 🌌 Clone Multiverse: Challenge of Open-Source Clone Projects
 <div align="center"><a href="https://github.com/IsaacAlves7/google-clone"><img src="https://www.pngkey.com/png/full/24-246033_show-me-what-you-got-sticker-video-game.png" height="277"></a></div><br \>
 
 # 🛸 How to drive?

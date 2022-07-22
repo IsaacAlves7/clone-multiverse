@@ -39,6 +39,41 @@ Você pode clonar os projetos e tentar replicá-los na sua máquina local, enten
 # 🌌 Clone Multiverse: Challenge of Projects
 <div align="center"><a href="https://github.com/IsaacAlves7/google-clone"><img src="https://www.pngkey.com/png/full/24-246033_show-me-what-you-got-sticker-video-game.png" height="177"></a></div><br \>
 
+- Facebook
+- Spotify
+- Messenger
+- Telegram
+- MSN
+- WhatsApp
+- Airbnb
+- Instagram
+- TikTok
+- Cobra Kai Website
+- Google search page
+- Twitter
+- iFood
+- Mercado Livre
+- Minecraft
+- Pong
+- LinkedIn
+- Netflix
+- Amazon Prime Video
+- Amazon
+- Disney+
+- Reddit
+- Signal
+- Uber
+- Uber Eats
+- YouTube
+- Apple
+- Super Mario Bros
+- Snake Game
+- Pac-Man
+- IMDB
+- Flipkart
+- Trello
+- Zoom
+
 <img src="https://blueprintgaming.com/wp-content/uploads/2019/10/spaceship1Asset-1-496x300.png" height="177" align="right">
 
 <img src="https://pocketmortys.net/images/assets/ItemMrMeeseekFront.png" height="77" align="right">

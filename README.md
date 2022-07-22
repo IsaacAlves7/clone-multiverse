@@ -75,6 +75,8 @@ Você pode clonar os projetos e tentar replicá-los na sua máquina local, enten
 - Flipkart
 - Trello
 - Zoom
+- Habib's
+- Coca-Cola
 
 <img src="https://blueprintgaming.com/wp-content/uploads/2019/10/spaceship1Asset-1-496x300.png" height="177" align="right">
 

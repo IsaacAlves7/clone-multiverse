@@ -119,6 +119,7 @@ Você pode também utilizar essas aplicações para produção, fazendo o deploy
 - Pepsi
 - Nike
 - Addidas
+- TIM
       
 # 🌌 Credits
 <div align="center"><a href="https://github.com/IsaacAlves7/google-clone"><img src="https://user-images.githubusercontent.com/61624336/132976982-5ba16744-e161-492f-9e9f-eb873cd5c41e.png"></a></div>

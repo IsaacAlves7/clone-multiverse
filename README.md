@@ -1,6 +1,6 @@
 <div align="center"><a href="https://github.com/IsaacAlves7/google-clone"><img src="https://user-images.githubusercontent.com/61624336/135576437-f191e82d-a65b-4f5a-b7f8-6741d83a3e9f.png"></a></div><br />
 
-<div align="center"><img src="https://user-images.githubusercontent.com/61624336/135540008-784d3a25-53e6-4c59-b8cc-e7328ee4dcc9.jpg" height="407"></div>
+<div align="center"><img src="https://user-images.githubusercontent.com/61624336/135540008-784d3a25-53e6-4c59-b8cc-e7328ee4dcc9.jpg" height="277"></div>
 
 # 🌌 How to start the Clone Multiverse?
 <img src="https://static.wixstatic.com/media/227c1c_3b1727183c2e4a3caeec58e7dba38937~mv2.gif" height="177" align="right">

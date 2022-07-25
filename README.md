@@ -27,9 +27,13 @@ Com base nessa citação da fala do Doutor Estranho, o que eu posso afirmar é q
 - Debugging
 - Segurança de Aplicações
 
-Somente com base nesses conhecimentos e experiências que você poderá pegar um projeto real e conseguir fazer as tarefas propostas dentro do prazo.
-
 <img src="https://user-images.githubusercontent.com/61624336/132973848-5df55ef8-cb24-4504-ad3f-da032797a0d4.jpg" height="177" align="right">
+
+Somente com base nesses conhecimentos e experiências que você poderá pegar um projeto real e conseguir fazer as tarefas propostas dentro do prazo. Você precisa ter muita atenção, noção, curiosidade e criatividade na hora de desenvolver algo muito complexo e que será usado por pessoas no cotidiano delas.
+
+Portanto, é necessário que tudo esteja funcionando de acordo com o desafio proposto, pois é isso que o usuário/cliente espera da aplicação.
+
+Além disso, é necessário que todo projeto tenha todos os ambientes padrões do CI/CD - Continuous Integration & Continuous Delivery, para que a aplicação seja aprovada e disponibilizada para os usuários.
 
 ## Installation
 <div align="center"><img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/10eb87cb-ecf2-4988-b86d-ab932c1dd9de/dcaq88r-98a0adf4-dc60-4cd2-ba84-d58ca59480ac.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzEwZWI4N2NiLWVjZjItNDk4OC1iODZkLWFiOTMyYzFkZDlkZVwvZGNhcTg4ci05OGEwYWRmNC1kYzYwLTRjZDItYmE4NC1kNThjYTU5NDgwYWMucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.HKeZGaDlqUiqq5Ma9U7OGioW95lzgyVPaIib-8Y60uI" height="177"><img src="https://user-images.githubusercontent.com/61624336/180464662-47919ce3-0a43-4d61-a564-eb70d6feacfe.png" height="177"></div><br \>

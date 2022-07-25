@@ -38,7 +38,31 @@ Além disso, é necessário que todo projeto tenha todos os ambientes padrões d
 ## Installation
 <div align="center"><img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/10eb87cb-ecf2-4988-b86d-ab932c1dd9de/dcaq88r-98a0adf4-dc60-4cd2-ba84-d58ca59480ac.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzEwZWI4N2NiLWVjZjItNDk4OC1iODZkLWFiOTMyYzFkZDlkZVwvZGNhcTg4ci05OGEwYWRmNC1kYzYwLTRjZDItYmE4NC1kNThjYTU5NDgwYWMucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.HKeZGaDlqUiqq5Ma9U7OGioW95lzgyVPaIib-8Y60uI" height="177"><img src="https://user-images.githubusercontent.com/61624336/180464662-47919ce3-0a43-4d61-a564-eb70d6feacfe.png" height="177"></div><br \>
 
-Você pode clonar os projetos e tentar replicá-los na sua máquina local, entendendo a sua 
+Você pode clonar os projetos e tentar replicá-los na sua máquina local, entendendo a sua composição e brincando com o código-fonte. Você é livre pra replicar e testar! 
+
+# 📦 Dockerization
+<img src="https://pocketmortys.net/images/assets/ItemMrMeeseekFront.png" height="77" align="right"><img src="https://upload.wikimedia.org/wikipedia/en/1/1d/Mr._Meeseeks.png" height="277" align="right">
+
+Você também pode dockerizar as aplicações e fazer experiências com contêineres! A dockerização é compatível com:
+
+- Kubernetes
+- Docker Engine
+- Docker Compose
+- Docker SWARM
+- Traefik
+- Consul
+- Rancher
+
+# 🛸 Deploy
+<img src="https://blueprintgaming.com/wp-content/uploads/2019/10/spaceship1Asset-1-496x300.png" height="177" align="right">
+
+Você pode também utilizar essas aplicações para produção, fazendo o deploy em algum servidor ou instância. O deploy é compatível com:
+
+- Heroku
+- Netfly
+- Vercel
+- Amazon EC2 - Elastic Compute Cloud
+- Amazon S3 - Simple Storage Service
 
 # 🌌 Clone Multiverse: Challenge of Projects
 <div align="center"><a href="https://github.com/IsaacAlves7/google-clone"><img src="https://www.pngkey.com/png/full/24-246033_show-me-what-you-got-sticker-video-game.png" height="177"></a></div><br \>
@@ -84,12 +108,6 @@ Você pode clonar os projetos e tentar replicá-los na sua máquina local, enten
 - Zoom
 - Habib's
 - Coca-Cola
-
-<img src="https://blueprintgaming.com/wp-content/uploads/2019/10/spaceship1Asset-1-496x300.png" height="177" align="right">
-
-<img src="https://pocketmortys.net/images/assets/ItemMrMeeseekFront.png" height="77" align="right">
-
-<img src="https://upload.wikimedia.org/wikipedia/en/1/1d/Mr._Meeseeks.png" height="277" align="right">
       
 # 🌌 Credits
 <div align="center"><a href="https://github.com/IsaacAlves7/google-clone"><img src="https://user-images.githubusercontent.com/61624336/132976982-5ba16744-e161-492f-9e9f-eb873cd5c41e.png"></a></div>

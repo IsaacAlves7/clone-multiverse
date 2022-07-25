@@ -72,6 +72,7 @@ Você pode também utilizar essas aplicações para produção, fazendo o deploy
 - Calculadora
 - Tabuada
 - To-do List
+- Portfolio
 - Blog
 - Spotify
 - Messenger

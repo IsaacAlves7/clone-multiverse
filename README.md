@@ -36,9 +36,13 @@ Portanto, é necessário que tudo esteja funcionando de acordo com o desafio pro
 Além disso, é necessário que todo projeto tenha todos os ambientes padrões do CI/CD - Continuous Integration & Continuous Delivery, para que a aplicação seja aprovada e disponibilizada para os usuários.
 
 ## Installation
-<div align="center"><img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/10eb87cb-ecf2-4988-b86d-ab932c1dd9de/dcaq88r-98a0adf4-dc60-4cd2-ba84-d58ca59480ac.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzEwZWI4N2NiLWVjZjItNDk4OC1iODZkLWFiOTMyYzFkZDlkZVwvZGNhcTg4ci05OGEwYWRmNC1kYzYwLTRjZDItYmE4NC1kNThjYTU5NDgwYWMucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.HKeZGaDlqUiqq5Ma9U7OGioW95lzgyVPaIib-8Y60uI" height="177"><img src="https://user-images.githubusercontent.com/61624336/180464662-47919ce3-0a43-4d61-a564-eb70d6feacfe.png" height="177"></div><br \>
+<img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/10eb87cb-ecf2-4988-b86d-ab932c1dd9de/dcaq88r-98a0adf4-dc60-4cd2-ba84-d58ca59480ac.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzEwZWI4N2NiLWVjZjItNDk4OC1iODZkLWFiOTMyYzFkZDlkZVwvZGNhcTg4ci05OGEwYWRmNC1kYzYwLTRjZDItYmE4NC1kNThjYTU5NDgwYWMucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.HKeZGaDlqUiqq5Ma9U7OGioW95lzgyVPaIib-8Y60uI" height="177" align="right">
 
 Você pode clonar os projetos e tentar replicá-los na sua máquina local, entendendo a sua composição e brincando com o código-fonte. Você é livre pra replicar e testar! 
+
+<img src="https://user-images.githubusercontent.com/61624336/180464662-47919ce3-0a43-4d61-a564-eb70d6feacfe.png" height="177">
+
+Escolha a branch de sua preferência e trabalhe em cima dela como a versão `master`.
 
 # 📦 Dockerization
 <img src="https://pocketmortys.net/images/assets/ItemMrMeeseekFront.png" height="77" align="left"><img src="https://upload.wikimedia.org/wikipedia/en/1/1d/Mr._Meeseeks.png" height="277" align="right">

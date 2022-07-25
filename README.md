@@ -89,6 +89,7 @@ Você pode também utilizar essas aplicações para produção, fazendo o deploy
 - Google Drive
 - Google search page
 - Twitter
+- Discord
 - iFood
 - Easy Readmine
 - Mercado Livre

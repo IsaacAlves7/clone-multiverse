@@ -88,6 +88,7 @@ Você pode também utilizar essas aplicações para produção, fazendo o deploy
 - Google search page
 - Twitter
 - iFood
+- Easy Readmine
 - Mercado Livre
 - Minecraft
 - Pong

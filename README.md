@@ -79,6 +79,7 @@ Você pode também utilizar essas aplicações para produção, fazendo o deploy
 - Telegram
 - MSN
 - WhatsApp
+- Dashboard
 - Airbnb
 - Instagram
 - Saraiva

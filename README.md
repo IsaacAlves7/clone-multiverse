@@ -74,6 +74,7 @@ Você pode também utilizar essas aplicações para produção, fazendo o deploy
 - Blog
 - Spotify
 - Messenger
+- Trello
 - Telegram
 - MSN
 - WhatsApp

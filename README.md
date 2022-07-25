@@ -41,9 +41,11 @@ Além disso, é necessário que todo projeto tenha todos os ambientes padrões d
 Você pode clonar os projetos e tentar replicá-los na sua máquina local, entendendo a sua composição e brincando com o código-fonte. Você é livre pra replicar e testar! 
 
 # 📦 Dockerization
-<img src="https://pocketmortys.net/images/assets/ItemMrMeeseekFront.png" height="77" align="right"><img src="https://upload.wikimedia.org/wikipedia/en/1/1d/Mr._Meeseeks.png" height="277" align="right">
+<img src="https://pocketmortys.net/images/assets/ItemMrMeeseekFront.png" height="77" align="left"><img src="https://upload.wikimedia.org/wikipedia/en/1/1d/Mr._Meeseeks.png" height="277" align="right">
 
-Você também pode dockerizar as aplicações e fazer experiências com contêineres! A dockerização é compatível com:
+Você também pode dockerizar as aplicações e fazer experiências com contêineres! Como clusters, pods, proxies, load balancings e muito mais! 
+
+A dockerização é compatível com:
 
 - Kubernetes
 - Docker Engine
@@ -53,6 +55,8 @@ Você também pode dockerizar as aplicações e fazer experiências com contêin
 - Consul
 - Rancher
 - GitHub Actions
+- Apache HTTP Server
+- NGNIX
 
 # 🛸 Deploy
 <img src="https://blueprintgaming.com/wp-content/uploads/2019/10/spaceship1Asset-1-496x300.png" height="177" align="right">

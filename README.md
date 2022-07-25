@@ -52,6 +52,7 @@ Você também pode dockerizar as aplicações e fazer experiências com contêin
 - Traefik
 - Consul
 - Rancher
+- GitHub Actions
 
 # 🛸 Deploy
 <img src="https://blueprintgaming.com/wp-content/uploads/2019/10/spaceship1Asset-1-496x300.png" height="177" align="right">

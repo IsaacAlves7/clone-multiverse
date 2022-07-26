@@ -69,6 +69,7 @@ Você pode também utilizar essas aplicações para produção, fazendo o deploy
 
 - Heroku
 - Netfly
+- Firebase
 - Vercel
 - Amazon EC2 - Elastic Compute Cloud
 - Amazon S3 - Simple Storage Service

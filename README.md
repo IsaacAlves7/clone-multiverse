@@ -80,6 +80,7 @@ Você pode também utilizar essas aplicações para produção, fazendo o deploy
 - Facebook
 - Calculadora
 - Tabuada
+- Multi Author Blogging
 - To-do List
 - Portfolio
 - Blog

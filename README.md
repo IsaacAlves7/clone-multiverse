@@ -40,8 +40,6 @@ Além disso, é necessário que todo projeto tenha todos os ambientes padrões d
 
 Você pode clonar os projetos e tentar replicá-los na sua máquina local, entendendo a sua composição e brincando com o código-fonte. Você é livre pra replicar e testar! 
 
-<img src="https://user-images.githubusercontent.com/61624336/180464662-47919ce3-0a43-4d61-a564-eb70d6feacfe.png" height="177">
-
 Escolha a branch de sua preferência e trabalhe em cima dela como a versão `master`.
 
 # 📦 Dockerization

@@ -40,7 +40,7 @@ Além disso, é necessário que todo projeto tenha todos os ambientes padrões d
 
 Você pode clonar os projetos e tentar replicá-los na sua máquina local, entendendo a sua composição e brincando com o código-fonte. Você é livre pra replicar e testar! 
 
-Escolha a branch de sua preferência e trabalhe em cima dela como a versão `master`.
+Escolha a branch de sua preferência e trabalhe em cima dela como a versão `main`.
 
 # 📦 Dockerization
 <img src="https://pocketmortys.net/images/assets/ItemMrMeeseekFront.png" height="77" align="left"><img src="https://upload.wikimedia.org/wikipedia/en/1/1d/Mr._Meeseeks.png" height="277" align="right">

@@ -74,60 +74,6 @@ Você pode também utilizar essas aplicações para produção, fazendo o deploy
 
 # 🌌 Clone Multiverse: Challenge of Projects
 <div align="center"><a href="https://github.com/IsaacAlves7/google-clone"><img src="https://www.pngkey.com/png/full/24-246033_show-me-what-you-got-sticker-video-game.png" height="177"></a></div><br \>
-
-- Facebook
-- Calculadora
-- Tabuada
-- Multi Author Blogging
-- To-do List
-- Portfolio
-- Blog
-- Spotify
-- Messenger
-- Trello
-- GitHub
-- Telegram
-- MSN
-- WhatsApp
-- Dashboard
-- Airbnb
-- Instagram
-- Saraiva
-- TikTok
-- Cobra Kai Website
-- Google Drive
-- Google search page
-- Twitter
-- Discord
-- iFood
-- Easy Readmine
-- Mercado Livre
-- Minecraft
-- Pong
-- LinkedIn
-- Netflix
-- Amazon Prime Video
-- Amazon
-- Disney+
-- Reddit
-- Signal
-- Uber
-- Uber Eats
-- YouTube
-- Apple
-- Super Mario Bros
-- Snake Game
-- Pac-Man
-- IMDB
-- Flipkart
-- Trello
-- Zoom
-- Habib's
-- Coca-Cola
-- Pepsi
-- Nike
-- Addidas
-- TIM
       
 # 🌌 Credits
 <div align="center"><a href="https://github.com/IsaacAlves7/google-clone"><img src="https://user-images.githubusercontent.com/61624336/132976982-5ba16744-e161-492f-9e9f-eb873cd5c41e.png"></a></div>

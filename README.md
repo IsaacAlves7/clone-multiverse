@@ -1,6 +1,10 @@
 <div align="center"><a href="https://github.com/IsaacAlves7/google-clone"><img src="https://user-images.githubusercontent.com/61624336/135576437-f191e82d-a65b-4f5a-b7f8-6741d83a3e9f.png"></a></div>
 
-# 🌌 How to start the Clone Multiverse?
+# How to start the Clone Multiverse? 🌌 
+> Versículo chave: "Consagre ao Senhor tudo o que você faz, e os seus planos serão bem-sucedidos." - Provérbios 16:3
+> 
+> 🌌 **Preparação**: Para este conteúdo, o aluno deverá dispor de um computador com acesso à internet, um web browser com suporte a HTML 5 (Google Chrome, Mozilla Firefox, Microsoft Edge, Safari, Opera etc.), um editor de texto (VSCode etc.) e uma plataforma de hospedagem (gratuita ou paga).
+
 <img src="https://static.wixstatic.com/media/227c1c_3b1727183c2e4a3caeec58e7dba38937~mv2.gif" height="177" align="right">
 
 O multiverso dos clones é na verdade um desafio com cronogramas e metas para o desenvolvimento de softwares planejados e estruturados. Fazer esses desafios seguindo o cronograma proposto te torna um desenvolvedor de qualidade, pois além de você conhecer as tecnologias e stacks de cada projeto real, você terá mais vivência nos seus estudos e um preparo melhor para o mercado de trabalho na área de desenvolvimento, possuindo assim: criatividade, agilidade, persistência, conhecimento, experiência e capacidade.
@@ -77,3 +81,4 @@ Você pode também utilizar essas aplicações para produção, fazendo o deploy
       
 # 🌌 Credits
 <div align="center"><a href="https://github.com/IsaacAlves7/google-clone"><img src="https://user-images.githubusercontent.com/61624336/132976982-5ba16744-e161-492f-9e9f-eb873cd5c41e.png"></a></div>
+
